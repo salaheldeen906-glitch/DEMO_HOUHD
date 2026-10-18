@@ -1,0 +1,4642 @@
+{
+  "الرئيسية": [
+    "Home",
+    "Accueil",
+    "Inicio"
+  ],
+  "مهامي": [
+    "My tasks",
+    "Mes tâches",
+    "Mis tareas"
+  ],
+  "العهد والتوزيعات": [
+    "Advances and allocations",
+    "Avances et répartitions",
+    "Anticipos y asignaciones"
+  ],
+  "المصروفات": [
+    "Expenses",
+    "Dépenses",
+    "Gastos"
+  ],
+  "المرتجعات": [
+    "Returns",
+    "Restitutions",
+    "Devoluciones"
+  ],
+  "التسويات": [
+    "Settlements",
+    "Régularisations",
+    "Liquidaciones"
+  ],
+  "المراجعات": [
+    "Reviews",
+    "Vérifications",
+    "Revisiones"
+  ],
+  "الأشخاص": [
+    "People",
+    "Personnes",
+    "Personas"
+  ],
+  "التقارير": [
+    "Reports",
+    "Rapports",
+    "Informes"
+  ],
+  "المستخدمون والصلاحيات": [
+    "Users and permissions",
+    "Utilisateurs et autorisations",
+    "Usuarios y permisos"
+  ],
+  "سجل النشاط": [
+    "Activity log",
+    "Journal d’activité",
+    "Registro de actividad"
+  ],
+  "الإعدادات": [
+    "Settings",
+    "Paramètres",
+    "Configuración"
+  ],
+  "ملاحظات التجربة": [
+    "Trial feedback",
+    "Retours sur l’essai",
+    "Comentarios de la prueba"
+  ],
+  "بانتظار التسليم / الاستلام": [
+    "Awaiting handover / receipt",
+    "En attente de remise / réception",
+    "Pendiente de entrega / recepción"
+  ],
+  "عهدة مفتوحة": [
+    "Open advance",
+    "Avance ouverte",
+    "Anticipo abierto"
+  ],
+  "تمت التسوية": [
+    "Settled",
+    "Régularisé",
+    "Liquidado"
+  ],
+  "مسودة": [
+    "Draft",
+    "Brouillon",
+    "Borrador"
+  ],
+  "بانتظار المراجعة": [
+    "Awaiting review",
+    "En attente de vérification",
+    "Pendiente de revisión"
+  ],
+  "بانتظار اعتماد المالية": [
+    "Awaiting Finance approval",
+    "En attente d’approbation des finances",
+    "Pendiente de aprobación de Finanzas"
+  ],
+  "معتمد ماليًا": [
+    "Approved by Finance",
+    "Approuvé par les finances",
+    "Aprobado por Finanzas"
+  ],
+  "مطلوب تصحيح": [
+    "Correction required",
+    "Correction requise",
+    "Corrección necesaria"
+  ],
+  "رد مؤكد": [
+    "Return confirmed",
+    "Restitution confirmée",
+    "Devolución confirmada"
+  ],
+  "ملغى": [
+    "Cancelled",
+    "Annulé",
+    "Cancelado"
+  ],
+  "معكوس": [
+    "Reversed",
+    "Contrepassé",
+    "Revertido"
+  ],
+  "صرف عهدة من المالية": [
+    "Advance issued by Finance",
+    "Avance versée par les finances",
+    "Anticipo entregado por Finanzas"
+  ],
+  "توزيع عهدة لموظف": [
+    "Advance allocated to an employee",
+    "Avance attribuée à un employé",
+    "Anticipo asignado a un empleado"
+  ],
+  "تأكيد التسليم": [
+    "Confirm handover",
+    "Confirmer la remise",
+    "Confirmar entrega"
+  ],
+  "تأكيد الاستلام": [
+    "Confirm receipt",
+    "Confirmer la réception",
+    "Confirmar recepción"
+  ],
+  "طلب تسوية": [
+    "Request settlement",
+    "Demander une régularisation",
+    "Solicitar liquidación"
+  ],
+  "سحب طلب تسوية": [
+    "Withdraw settlement request",
+    "Retirer la demande de régularisation",
+    "Retirar solicitud de liquidación"
+  ],
+  "اعتماد وإقفال التسوية": [
+    "Approve and close settlement",
+    "Approuver et clôturer la régularisation",
+    "Aprobar y cerrar liquidación"
+  ],
+  "حفظ مسودة مصروف": [
+    "Save expense draft",
+    "Enregistrer le brouillon de dépense",
+    "Guardar borrador de gasto"
+  ],
+  "إرسال مصروف للمراجعة": [
+    "Submit expense for review",
+    "Soumettre la dépense à vérification",
+    "Enviar gasto a revisión"
+  ],
+  "مراجعة واعتماد": [
+    "Review and approve",
+    "Vérifier et approuver",
+    "Revisar y aprobar"
+  ],
+  "إعادة للتصحيح": [
+    "Return for correction",
+    "Renvoyer pour correction",
+    "Devolver para corrección"
+  ],
+  "حذف مسودة": [
+    "Delete draft",
+    "Supprimer le brouillon",
+    "Eliminar borrador"
+  ],
+  "طلب رد مبلغ": [
+    "Request a return of funds",
+    "Demander une restitution de fonds",
+    "Solicitar devolución de fondos"
+  ],
+  "تأكيد استلام الرد": [
+    "Confirm receipt of returned funds",
+    "Confirmer la réception des fonds restitués",
+    "Confirmar recepción de fondos devueltos"
+  ],
+  "إلغاء طلب الرد": [
+    "Cancel return request",
+    "Annuler la demande de restitution",
+    "Cancelar solicitud de devolución"
+  ],
+  "عكس حركة بسبب": [
+    "Reverse a transaction with a reason",
+    "Contrepasser une opération avec un motif",
+    "Revertir un movimiento con un motivo"
+  ],
+  "حفظ شخص": [
+    "Save person",
+    "Enregistrer la personne",
+    "Guardar persona"
+  ],
+  "تفعيل أو تعطيل شخص": [
+    "Activate or deactivate person",
+    "Activer ou désactiver la personne",
+    "Activar o desactivar persona"
+  ],
+  "حفظ بند مصروف": [
+    "Save expense category",
+    "Enregistrer la catégorie de dépense",
+    "Guardar categoría de gasto"
+  ],
+  "حالة بند": [
+    "Category status",
+    "Statut de la catégorie",
+    "Estado de la categoría"
+  ],
+  "لا مصروف اليوم": [
+    "No expenses today",
+    "Aucune dépense aujourd’hui",
+    "Sin gastos hoy"
+  ],
+  "ملاحظة تجربة": [
+    "Trial feedback",
+    "Retour sur l’essai",
+    "Comentario de la prueba"
+  ],
+  "تهيئة مساحة التجربة": [
+    "Initialize trial workspace",
+    "Initialiser l’espace d’essai",
+    "Inicializar espacio de prueba"
+  ],
+  "حفظ حساب وصلاحية": [
+    "Save account and permissions",
+    "Enregistrer le compte et les autorisations",
+    "Guardar cuenta y permisos"
+  ],
+  "حالة حساب": [
+    "Account status",
+    "Statut du compte",
+    "Estado de la cuenta"
+  ],
+  "تبديل محاكاة المالك": [
+    "Toggle owner simulation",
+    "Activer ou désactiver la simulation du propriétaire",
+    "Activar o desactivar simulación del propietario"
+  ],
+  "رفع إثبات": [
+    "Upload evidence",
+    "Importer un justificatif",
+    "Subir comprobante"
+  ],
+  "إعداد المثال": [
+    "Set up sample",
+    "Configurer l’exemple",
+    "Configurar ejemplo"
+  ],
+  "ج.م": [
+    "EGP",
+    "EGP",
+    "EGP"
+  ],
+  "ادخل مجددًا": [
+    "Sign in again",
+    "Reconnectez-vous",
+    "Vuelve a iniciar sesión"
+  ],
+  "تعذر الاتصال؛ بياناتك محفوظة. حاول مجددًا.": [
+    "Unable to connect; your data is saved. Try again.",
+    "Connexion impossible ; vos données sont enregistrées. Réessayez.",
+    "No se pudo conectar; tus datos están guardados. Inténtalo de nuevo."
+  ],
+  "تعذر حفظ الإجراء": [
+    "Unable to save action",
+    "Impossible d’enregistrer l’action",
+    "No se pudo guardar la acción"
+  ],
+  "تم حفظ المسودة؛ لم يتغير الرصيد": [
+    "Draft saved; balance unchanged",
+    "Brouillon enregistré ; solde inchangé",
+    "Borrador guardado; saldo sin cambios"
+  ],
+  "تم حفظ الإجراء": [
+    "Action saved",
+    "Action enregistrée",
+    "Acción guardada"
+  ],
+  "المبلغ بالجنيه المصري": [
+    "Amount in Egyptian pounds",
+    "Montant en livres égyptiennes",
+    "Importe en libras egipcias"
+  ],
+  "التاريخ": [
+    "Date",
+    "Date",
+    "Fecha"
+  ],
+  "وسيلة صرف المبلغ": [
+    "Disbursement method",
+    "Mode de versement",
+    "Método de desembolso"
+  ],
+  "مرجع التحويل المنفّذ": [
+    "Completed transfer reference",
+    "Référence du virement effectué",
+    "Referencia de la transferencia realizada"
+  ],
+  "تعديل الشخص": [
+    "Edit person",
+    "Modifier la personne",
+    "Editar persona"
+  ],
+  "إضافة شخص": [
+    "Add person",
+    "Ajouter une personne",
+    "Añadir persona"
+  ],
+  "الاسم": [
+    "Name",
+    "Nom",
+    "Nombre"
+  ],
+  "الفريق / الإدارة": [
+    "Team / department",
+    "Équipe / service",
+    "Equipo / departamento"
+  ],
+  "المدير المباشر": [
+    "Direct manager",
+    "Responsable direct",
+    "Supervisor directo"
+  ],
+  "صرف عهدة لمهمة": [
+    "Issue an advance for a task",
+    "Verser une avance pour une mission",
+    "Entregar un anticipo para una tarea"
+  ],
+  "مسؤول العهدة / المستلم": [
+    "Advance holder / recipient",
+    "Responsable de l’avance / bénéficiaire",
+    "Responsable del anticipo / receptor"
+  ],
+  "المهمة / غرض العهدة": [
+    "Task / advance purpose",
+    "Mission / objet de l’avance",
+    "Tarea / finalidad del anticipo"
+  ],
+  "لا توجد عهدة أساسية مستلمة يمكنك توزيعها. أنشئ عهدة وأكد استلامها أولًا.": [
+    "You have no received primary advance to allocate. Create an advance and confirm receipt first.",
+    "Vous n’avez aucune avance principale reçue à répartir. Créez une avance et confirmez sa réception d’abord.",
+    "No tienes ningún anticipo principal recibido para asignar. Primero crea un anticipo y confirma su recepción."
+  ],
+  "توزيع مبلغ من العهدة لموظف": [
+    "Allocate funds from an advance to an employee",
+    "Attribuer des fonds d’une avance à un employé",
+    "Asignar fondos de un anticipo a un empleado"
+  ],
+  "العهدة الأساسية مصدر المبلغ": [
+    "Primary advance funding this amount",
+    "Avance principale d’où proviennent les fonds",
+    "Anticipo principal del que proceden los fondos"
+  ],
+  "الموظف المستلم": [
+    "Receiving employee",
+    "Employé bénéficiaire",
+    "Empleado receptor"
+  ],
+  "الغرض / تعليمات المهمة": [
+    "Purpose / task instructions",
+    "Objet / instructions de la mission",
+    "Finalidad / instrucciones de la tarea"
+  ],
+  "لا توجد عهدة مستلمة متاحة لك. ستظهر هنا بعد الاستلام أو التحويل المنفّذ.": [
+    "No received advance is available to you. It will appear here after receipt or a completed transfer.",
+    "Aucune avance reçue n’est disponible pour vous. Elle apparaîtra ici après réception ou après un virement effectué.",
+    "No tienes ningún anticipo recibido disponible. Aparecerá aquí tras su recepción o una transferencia realizada."
+  ],
+  "تصحيح نفس المصروف": [
+    "Correct this expense",
+    "Corriger cette dépense",
+    "Corregir este gasto"
+  ],
+  "تسجيل مصروف من عهدة محددة": [
+    "Record an expense against a specific advance",
+    "Enregistrer une dépense sur une avance précise",
+    "Registrar un gasto con cargo a un anticipo específico"
+  ],
+  "العهدة التي تصرف منها": [
+    "Advance used for this expense",
+    "Avance utilisée pour cette dépense",
+    "Anticipo utilizado para este gasto"
+  ],
+  "بند المصروف": [
+    "Expense category",
+    "Catégorie de dépense",
+    "Categoría de gasto"
+  ],
+  "＋ أضف بندًا جديدًا من هنا": [
+    "＋ Add a new category here",
+    "＋ Ajouter une catégorie ici",
+    "＋ Añadir una categoría aquí"
+  ],
+  "ما الذي تم صرفه؟": [
+    "What was the money spent on?",
+    "À quoi les fonds ont-ils été consacrés ?",
+    "¿En qué se gastó el dinero?"
+  ],
+  "إثبات كتابي — أو أرفق صورة / ملف": [
+    "Written evidence — or attach an image / file",
+    "Justificatif écrit — ou joindre une image / un fichier",
+    "Comprobante escrito — o adjunta una imagen / un archivo"
+  ],
+  "لا توجد عهدة مستلمة مفتوحة للرد.": [
+    "No open received advance is available for a return.",
+    "Aucune avance reçue et ouverte n’est disponible pour une restitution.",
+    "No hay ningún anticipo recibido y abierto disponible para una devolución."
+  ],
+  "رد مبلغ — كامل أو جزئي": [
+    "Return funds — in full or in part",
+    "Restituer des fonds — en totalité ou en partie",
+    "Devolver fondos — total o parcialmente"
+  ],
+  "العهدة التي ترد منها": [
+    "Advance to return funds from",
+    "Avance dont les fonds sont à restituer",
+    "Anticipo del que se devuelven fondos"
+  ],
+  "المبلغ سيرجع إلى": [
+    "Funds will be returned to",
+    "Les fonds seront restitués à",
+    "Los fondos se devolverán a"
+  ],
+  "مسؤول العهدة الأصلية — للموظف؛ المالية للعهدة الأساسية": [
+    "Original advance holder for employees; Finance for primary advances",
+    "Responsable de l’avance d’origine pour les employés ; finances pour les avances principales",
+    "Responsable del anticipo original para empleados; Finanzas para anticipos principales"
+  ],
+  "المالية مباشرة": [
+    "Directly to Finance",
+    "Directement aux finances",
+    "Directamente a Finanzas"
+  ],
+  "وسيلة الرد": [
+    "Return method",
+    "Mode de restitution",
+    "Método de devolución"
+  ],
+  "سبب الرد": [
+    "Reason for return",
+    "Motif de restitution",
+    "Motivo de la devolución"
+  ],
+  "السبب المطلوب": [
+    "Required reason",
+    "Motif requis",
+    "Motivo obligatorio"
+  ],
+  "تعديل حساب وصلاحياته": [
+    "Edit account and permissions",
+    "Modifier le compte et les autorisations",
+    "Editar cuenta y permisos"
+  ],
+  "منح شخص حساب دخول": [
+    "Give a person a login account",
+    "Créer un compte de connexion pour une personne",
+    "Crear una cuenta de acceso para una persona"
+  ],
+  "الشخص": [
+    "Person",
+    "Personne",
+    "Persona"
+  ],
+  "اسم المستخدم — إنجليزي بدون مسافات": [
+    "Username — English characters, no spaces",
+    "Nom d’utilisateur — caractères anglais, sans espaces",
+    "Nombre de usuario — caracteres ingleses, sin espacios"
+  ],
+  "كلمة مرور جديدة — اتركها فارغة للإبقاء عليها": [
+    "New password — leave blank to keep the current one",
+    "Nouveau mot de passe — laisser vide pour conserver l’actuel",
+    "Nueva contraseña — deja el campo vacío para conservar la actual"
+  ],
+  "كلمة المرور — 8 أحرف على الأقل": [
+    "Password — at least 8 characters",
+    "Mot de passe — au moins 8 caractères",
+    "Contraseña — al menos 8 caracteres"
+  ],
+  "الصلاحية": [
+    "Permission",
+    "Autorisation",
+    "Permiso"
+  ],
+  "لا توجد سجلات هنا بعد": [
+    "No records here yet",
+    "Aucun enregistrement ici pour l’instant",
+    "Aún no hay registros aquí"
+  ],
+  "الإجراءات المتاحة تظهر بالأعلى أو من تفاصيل العهدة.": [
+    "Available actions appear above or in the advance details.",
+    "Les actions disponibles figurent en haut ou dans les détails de l’avance.",
+    "Las acciones disponibles aparecen arriba o en los detalles del anticipo."
+  ],
+  "عرض أول 100 سجل؛ ضيّق البحث.": [
+    "Showing the first 100 records; narrow your search.",
+    "Affichage des 100 premiers enregistrements ; affinez votre recherche.",
+    "Se muestran los primeros 100 registros; acota la búsqueda."
+  ],
+  "البحث": [
+    "Search",
+    "Recherche",
+    "Buscar"
+  ],
+  "ابحث بالاسم أو العهدة أو وصف المهمة…": [
+    "Search by name, advance or task description…",
+    "Rechercher par nom, avance ou description de mission…",
+    "Buscar por nombre, anticipo o descripción de la tarea…"
+  ],
+  "الحالة": [
+    "Status",
+    "Statut",
+    "Estado"
+  ],
+  "كل الحالات": [
+    "All statuses",
+    "Tous les statuts",
+    "Todos los estados"
+  ],
+  "انتظار تأكيد التسليم": [
+    "Awaiting handover confirmation",
+    "En attente de confirmation de remise",
+    "Pendiente de confirmación de entrega"
+  ],
+  "تأكيد استلام المبلغ": [
+    "Confirm receipt of funds",
+    "Confirmer la réception des fonds",
+    "Confirmar recepción de fondos"
+  ],
+  "تأكيد تسليم المبلغ للموظف": [
+    "Confirm handover of funds to the employee",
+    "Confirmer la remise des fonds à l’employé",
+    "Confirmar entrega de fondos al empleado"
+  ],
+  "اعتماد المالية": [
+    "Finance approval",
+    "Approbation des finances",
+    "Aprobación de Finanzas"
+  ],
+  "مراجعة المصروف والإثبات": [
+    "Review expense and evidence",
+    "Vérifier la dépense et le justificatif",
+    "Revisar gasto y comprobante"
+  ],
+  "تصحيح المصروف ثم إعادة الإرسال": [
+    "Correct expense and resubmit",
+    "Corriger la dépense et la soumettre à nouveau",
+    "Corregir gasto y reenviar"
+  ],
+  "تأكيد استلام المبلغ المرتجع": [
+    "Confirm receipt of returned funds",
+    "Confirmer la réception des fonds restitués",
+    "Confirmar recepción de fondos devueltos"
+  ],
+  "تقديم التسوية للمالية": [
+    "Submit settlement to Finance",
+    "Soumettre la régularisation aux finances",
+    "Enviar liquidación a Finanzas"
+  ],
+  "توزيع داخلي": [
+    "Internal allocation",
+    "Répartition interne",
+    "Asignación interna"
+  ],
+  "صرف من المالية": [
+    "Disbursement by Finance",
+    "Versement par les finances",
+    "Desembolso de Finanzas"
+  ],
+  "مصروف": [
+    "Expense",
+    "Dépense",
+    "Gasto"
+  ],
+  "رد لمسؤول العهدة": [
+    "Return to advance holder",
+    "Restitution au responsable de l’avance",
+    "Devolución al responsable del anticipo"
+  ],
+  "رد للمالية": [
+    "Return to Finance",
+    "Restitution aux finances",
+    "Devolución a Finanzas"
+  ],
+  "الوارد المفلتر": [
+    "Filtered incoming funds",
+    "Fonds entrants filtrés",
+    "Fondos recibidos filtrados"
+  ],
+  "العهد المصروفة من المالية": [
+    "Advances issued by Finance",
+    "Avances versées par les finances",
+    "Anticipos entregados por Finanzas"
+  ],
+  "إجمالي المستلم": [
+    "Total received",
+    "Total reçu",
+    "Total recibido"
+  ],
+  "المصروف المسجل": [
+    "Recorded expenses",
+    "Dépenses enregistrées",
+    "Gastos registrados"
+  ],
+  "المردود": [
+    "Returned",
+    "Restitué",
+    "Devuelto"
+  ],
+  "للمالية": [
+    "To Finance",
+    "Aux finances",
+    "A Finanzas"
+  ],
+  "صافي الحركة المفلترة": [
+    "Net filtered movement",
+    "Mouvement net filtré",
+    "Movimiento neto filtrado"
+  ],
+  "الرصيد القائم": [
+    "Outstanding balance",
+    "Solde restant",
+    "Saldo pendiente"
+  ],
+  "حسب الفلاتر؛ ليس رصيد الإقفال": [
+    "Based on filters; not the closing balance",
+    "Selon les filtres ; il ne s’agit pas du solde de clôture",
+    "Según los filtros; no es el saldo de cierre"
+  ],
+  "جنيه مصري": [
+    "Egyptian pounds",
+    "Livres égyptiennes",
+    "Libras egipcias"
+  ],
+  "المصروف خلال 7 أيام": [
+    "Expenses over 7 days",
+    "Dépenses sur 7 jours",
+    "Gastos durante 7 días"
+  ],
+  "حتى": [
+    "Until",
+    "Jusqu’au",
+    "Hasta"
+  ],
+  "المصروف حسب البند": [
+    "Expenses by category",
+    "Dépenses par catégorie",
+    "Gastos por categoría"
+  ],
+  "إجمالي المصروف": [
+    "Total expenses",
+    "Total des dépenses",
+    "Total de gastos"
+  ],
+  "لا توجد مصروفات مرسلة": [
+    "No submitted expenses",
+    "Aucune dépense soumise",
+    "No hay gastos enviados"
+  ],
+  "العهدة / المهمة": [
+    "Advance / task",
+    "Avance / mission",
+    "Anticipo / tarea"
+  ],
+  "المستلم / المصدر": [
+    "Recipient / source",
+    "Bénéficiaire / source",
+    "Receptor / origen"
+  ],
+  "المبلغ": [
+    "Amount",
+    "Montant",
+    "Importe"
+  ],
+  "المتبقي / المتاح": [
+    "Remaining / available",
+    "Restant / disponible",
+    "Restante / disponible"
+  ],
+  "توزيع من": [
+    "Allocation from",
+    "Répartition depuis",
+    "Asignación desde"
+  ],
+  "من المالية": [
+    "From Finance",
+    "Des finances",
+    "De Finanzas"
+  ],
+  "نقدي": [
+    "Cash",
+    "Espèces",
+    "Efectivo"
+  ],
+  "متاح": [
+    "Available",
+    "Disponible",
+    "Disponible"
+  ],
+  "تسوية مقدمة للمالية": [
+    "Settlement submitted to Finance",
+    "Régularisation soumise aux finances",
+    "Liquidación enviada a Finanzas"
+  ],
+  "المصروف": [
+    "Expense",
+    "Dépense",
+    "Gasto"
+  ],
+  "العهدة / الموظف": [
+    "Advance / employee",
+    "Avance / employé",
+    "Anticipo / empleado"
+  ],
+  "البند": [
+    "Category",
+    "Catégorie",
+    "Categoría"
+  ],
+  "المبلغ / المسجل": [
+    "Amount / recorded by",
+    "Montant / enregistré par",
+    "Importe / registrado por"
+  ],
+  "الإثبات": [
+    "Evidence",
+    "Justificatif",
+    "Comprobante"
+  ],
+  "مسجل": [
+    "Recorded",
+    "Enregistré",
+    "Registrado"
+  ],
+  "إثبات كتابي": [
+    "Written evidence",
+    "Justificatif écrit",
+    "Comprobante escrito"
+  ],
+  "لم يضف": [
+    "Not added",
+    "Non ajouté",
+    "No añadido"
+  ],
+  "عُهدة": [
+    "Uhda",
+    "Uhda",
+    "Uhda"
+  ],
+  "جارٍ تحميل بياناتك…": [
+    "Loading your data…",
+    "Chargement de vos données…",
+    "Cargando tus datos…"
+  ],
+  "العهدة واضحة.": [
+    "Your advance, clearly tracked.",
+    "Votre avance, clairement suivie.",
+    "Tu anticipo, con un seguimiento claro."
+  ],
+  "من الصرف إلى التسوية.": [
+    "From disbursement to settlement.",
+    "Du versement à la régularisation.",
+    "Del desembolso a la liquidación."
+  ],
+  "كل مبلغ مرتبط بمهمته وصاحبه. الصرف والتوزيع والمصروف والرد والتسوية في مكان واحد.": [
+    "Every amount is linked to its task and holder. Disbursements, allocations, expenses, returns and settlements in one place.",
+    "Chaque montant est lié à sa mission et à son responsable. Versements, répartitions, dépenses, restitutions et régularisations au même endroit.",
+    "Cada importe está vinculado a su tarea y responsable. Desembolsos, asignaciones, gastos, devoluciones y liquidaciones en un solo lugar."
+  ],
+  "صرف عهدة": [
+    "Issue an advance",
+    "Verser une avance",
+    "Entregar un anticipo"
+  ],
+  "توزيع لموظفين": [
+    "Allocate to employees",
+    "Répartir entre les employés",
+    "Asignar a empleados"
+  ],
+  "مصروف وإثبات": [
+    "Expense and evidence",
+    "Dépense et justificatif",
+    "Gasto y comprobante"
+  ],
+  "رد وتسوية": [
+    "Return and settlement",
+    "Restitution et régularisation",
+    "Devolución y liquidación"
+  ],
+  "بيئة تجريبية — لا تستخدم بيانات حقيقية": [
+    "Demo environment — do not use real data",
+    "Environnement de démonstration — n’utilisez pas de données réelles",
+    "Entorno de demostración — no use datos reales"
+  ],
+  "دخول النظام": [
+    "Sign in",
+    "Connexion",
+    "Iniciar sesión"
+  ],
+  "مساحة اختبار مستقلة": [
+    "Independent test workspace",
+    "Espace de test indépendant",
+    "Espacio de prueba independiente"
+  ],
+  "للمالك والمستخدمين الذين منحهم حسابات.": [
+    "For the owner and users they have given accounts to.",
+    "Pour le propriétaire et les utilisateurs auxquels il a attribué un compte.",
+    "Para el propietario y los usuarios a quienes ha asignado una cuenta."
+  ],
+  "التجربة العامة منفصلة عن مساحة المالك.": [
+    "The public demo is separate from the owner’s workspace.",
+    "La démonstration publique est distincte de l’espace du propriétaire.",
+    "La demostración pública está separada del espacio del propietario."
+  ],
+  "تجربة جديدة": [
+    "New demo",
+    "Nouvelle démonstration",
+    "Nueva demostración"
+  ],
+  "تجربة مشتركة": [
+    "Shared demo",
+    "Démonstration partagée",
+    "Demostración compartida"
+  ],
+  "اسم المستخدم": [
+    "Username",
+    "Nom d’utilisateur",
+    "Nombre de usuario"
+  ],
+  "اسم المستخدم الذي منحك إياه المالك": [
+    "The username provided by the owner",
+    "Le nom d’utilisateur fourni par le propriétaire",
+    "El nombre de usuario proporcionado por el propietario"
+  ],
+  "كلمة المرور": [
+    "Password",
+    "Mot de passe",
+    "Contraseña"
+  ],
+  "إخفاء كلمة المرور": [
+    "Hide password",
+    "Masquer le mot de passe",
+    "Ocultar contraseña"
+  ],
+  "إظهار كلمة المرور": [
+    "Show password",
+    "Afficher le mot de passe",
+    "Mostrar contraseña"
+  ],
+  "اسمك التجريبي": [
+    "Your demo name",
+    "Votre nom pour la démonstration",
+    "Su nombre para la demostración"
+  ],
+  "اسم مساحة العمل": [
+    "Workspace name",
+    "Nom de l’espace de travail",
+    "Nombre del espacio de trabajo"
+  ],
+  "بداية التجربة": [
+    "Demo starting point",
+    "Point de départ de la démonstration",
+    "Inicio de la demostración"
+  ],
+  "أشخاص وبنود فقط — بلا حركات مالية": [
+    "People and categories only — no financial transactions",
+    "Personnes et catégories uniquement — aucune opération financière",
+    "Solo personas y categorías — sin movimientos financieros"
+  ],
+  "ابدأ فارغًا": [
+    "Start empty",
+    "Commencer avec un espace vide",
+    "Empezar con un espacio vacío"
+  ],
+  "مثال جاهز: عهدة 1000، توزيع 400، مصروف 200": [
+    "Ready-made example: advance 1000, allocation 400, expense 200",
+    "Exemple prêt à l’emploi : avance 1000, répartition 400, dépense 200",
+    "Ejemplo listo: anticipo 1000, asignación 400, gasto 200"
+  ],
+  "كود التجربة المستقلة": [
+    "Independent demo code",
+    "Code de la démonstration indépendante",
+    "Código de demostración independiente"
+  ],
+  "صلاحية المحاكاة": [
+    "Simulation role",
+    "Rôle de simulation",
+    "Rol de simulación"
+  ],
+  "جارٍ الدخول…": [
+    "Signing in…",
+    "Connexion en cours…",
+    "Iniciando sesión…"
+  ],
+  "دخول": [
+    "Sign in",
+    "Se connecter",
+    "Iniciar sesión"
+  ],
+  "إنشاء تجربة مستقلة": [
+    "Create independent demo",
+    "Créer une démonstration indépendante",
+    "Crear demostración independiente"
+  ],
+  "دخول التجربة": [
+    "Enter demo",
+    "Accéder à la démonstration",
+    "Entrar en la demostración"
+  ],
+  "دخول بحسابك من أي جهاز — بدون كود دعوة.": [
+    "Sign in with your account from any device — no invitation code needed.",
+    "Connectez-vous à votre compte depuis tout appareil — aucun code d’invitation requis.",
+    "Acceda con su cuenta desde cualquier dispositivo — sin código de invitación."
+  ],
+  "بيانات الاختبار محفوظة؛ التنقل مفتوح.": [
+    "Test data is saved; navigation is available.",
+    "Les données de test sont enregistrées ; la navigation est disponible.",
+    "Los datos de prueba están guardados; la navegación está disponible."
+  ],
+  "انتقل للمحتوى": [
+    "Skip to content",
+    "Aller au contenu",
+    "Ir al contenido"
+  ],
+  "إغلاق القائمة": [
+    "Close menu",
+    "Fermer le menu",
+    "Cerrar menú"
+  ],
+  "العهد والمصروفات": [
+    "Advances and expenses",
+    "Avances et dépenses",
+    "Anticipos y gastos"
+  ],
+  "حسابات بصلاحيات محددة": [
+    "Accounts with defined permissions",
+    "Comptes avec autorisations définies",
+    "Cuentas con permisos definidos"
+  ],
+  "محاكاة تجريبية مستقلة": [
+    "Independent demo simulation",
+    "Simulation de démonstration indépendante",
+    "Simulación de demostración independiente"
+  ],
+  "مالك النظام": [
+    "System owner",
+    "Propriétaire du système",
+    "Propietario del sistema"
+  ],
+  "العودة لصلاحيات المالك": [
+    "Return to owner permissions",
+    "Revenir aux autorisations du propriétaire",
+    "Volver a los permisos del propietario"
+  ],
+  "محاكاة دور وشخص — للمالك / التجربة فقط": [
+    "Simulate a role and person — owner / demo only",
+    "Simuler un rôle et une personne — propriétaire / démonstration uniquement",
+    "Simular un rol y una persona — solo propietario / demostración"
+  ],
+  "الشخص الذي تمثله": [
+    "Person you represent",
+    "Personne que vous représentez",
+    "Persona que representa"
+  ],
+  "الصلاحية المحاكاة": [
+    "Simulated role",
+    "Rôle simulé",
+    "Rol simulado"
+  ],
+  "محاكاة دور": [
+    "Simulate a role",
+    "Simuler un rôle",
+    "Simular un rol"
+  ],
+  "فتح القائمة": [
+    "Open menu",
+    "Ouvrir le menu",
+    "Abrir menú"
+  ],
+  "المظهر الفاتح": [
+    "Light theme",
+    "Thème clair",
+    "Tema claro"
+  ],
+  "المظهر الداكن": [
+    "Dark theme",
+    "Thème sombre",
+    "Tema oscuro"
+  ],
+  "تسجيل الخروج": [
+    "Sign out",
+    "Se déconnecter",
+    "Cerrar sesión"
+  ],
+  "تم نسخ كود التجربة": [
+    "Demo code copied",
+    "Code de démonstration copié",
+    "Código de demostración copiado"
+  ],
+  "يمكن تحديد الكود ونسخه يدويًا": [
+    "You can select and copy the code manually",
+    "Vous pouvez sélectionner et copier le code manuellement",
+    "Puede seleccionar y copiar el código manualmente"
+  ],
+  "كود التجربة:": [
+    "Demo code:",
+    "Code de démonstration :",
+    "Código de demostración:"
+  ],
+  "صلاحياتك يحددها مسؤول النظام": [
+    "Your permissions are set by the system administrator",
+    "Vos autorisations sont définies par l’administrateur système",
+    "El administrador del sistema define sus permisos"
+  ],
+  "إعادة المحاولة": [
+    "Try again",
+    "Réessayer",
+    "Reintentar"
+  ],
+  "ما المطلوب الآن؟": [
+    "What needs action now?",
+    "Quelles actions sont requises maintenant ?",
+    "¿Qué requiere una acción ahora?"
+  ],
+  "كل عهدة ومهمة مستقلة؛ يمكنك العمل على عدة عهد في الوقت نفسه.": [
+    "Each advance and task is independent; you can work with several advances at once.",
+    "Chaque avance et chaque mission sont indépendantes ; vous pouvez gérer plusieurs avances en parallèle.",
+    "Cada anticipo y tarea es independiente; puede trabajar con varios anticipos a la vez."
+  ],
+  "توزيع مبلغ": [
+    "Allocate funds",
+    "Répartir un montant",
+    "Asignar fondos"
+  ],
+  "تسجيل مصروف": [
+    "Record expense",
+    "Enregistrer une dépense",
+    "Registrar gasto"
+  ],
+  "معك الآن": [
+    "Currently held by you",
+    "Actuellement en votre possession",
+    "Actualmente en su poder"
+  ],
+  "المسؤول عنه إجمالًا لدى الموظفين ومعك": [
+    "Total under your responsibility, held by employees and you",
+    "Total sous votre responsabilité, détenu par les employés et vous",
+    "Total bajo su responsabilidad, en poder de los empleados y de usted"
+  ],
+  "ابدأ تجربة كاملة": [
+    "Start a full demo",
+    "Lancer une démonstration complète",
+    "Iniciar demostración completa"
+  ],
+  "إخفاء": [
+    "Hide",
+    "Masquer",
+    "Ocultar"
+  ],
+  "الخطوات": [
+    "Steps",
+    "Étapes",
+    "Pasos"
+  ],
+  "المالية تصرف عهدة لمهمة ومسؤول": [
+    "Finance issues an advance for a task and a manager",
+    "La finance verse une avance pour une mission et un responsable",
+    "Finanzas entrega un anticipo para una tarea y un responsable"
+  ],
+  "المسؤول يستلم ويوزع للموظفين": [
+    "The manager receives it and allocates funds to employees",
+    "Le responsable la reçoit et répartit les fonds entre les employés",
+    "El responsable lo recibe y asigna fondos a los empleados"
+  ],
+  "الموظف يستلم ويصرف ويرفع الإثبات": [
+    "The employee receives funds, spends them, and uploads evidence",
+    "L’employé reçoit les fonds, les dépense et joint les justificatifs",
+    "El empleado recibe los fondos, los gasta y adjunta los comprobantes"
+  ],
+  "المسؤول يراجع ثم المالية تعتمد": [
+    "The manager reviews, then Finance approves",
+    "Le responsable vérifie, puis la finance approuve",
+    "El responsable revisa y luego Finanzas aprueba"
+  ],
+  "رد المال كاملًا أو جزئيًا ثم تسوية منفصلة": [
+    "Return all or part of the funds, then settle separately",
+    "Restituer tout ou partie des fonds, puis régulariser séparément",
+    "Devolver todos o parte de los fondos y luego liquidar por separado"
+  ],
+  "للمالك محاكاة الأدوار للاختبار. الحسابات الممنوحة تستخدم صلاحياتها فقط.": [
+    "The owner can simulate roles for testing. Assigned accounts use only their own permissions.",
+    "Le propriétaire peut simuler des rôles pour les tests. Les comptes attribués utilisent uniquement leurs propres autorisations.",
+    "El propietario puede simular roles para pruebas. Las cuentas asignadas usan únicamente sus propios permisos."
+  ],
+  "مهام تحتاج إجراء": [
+    "Tasks requiring action",
+    "Missions nécessitant une action",
+    "Tareas que requieren acción"
+  ],
+  "كل المهام": [
+    "All tasks",
+    "Toutes les missions",
+    "Todas las tareas"
+  ],
+  "لا توجد مهام معلقة لك": [
+    "You have no pending tasks",
+    "Vous n’avez aucune mission en attente",
+    "No tiene tareas pendientes"
+  ],
+  "الأرصدة لدى الأشخاص": [
+    "Balances held by people",
+    "Soldes détenus par les personnes",
+    "Saldos en poder de las personas"
+  ],
+  "تقرير مفصل": [
+    "Detailed report",
+    "Rapport détaillé",
+    "Informe detallado"
+  ],
+  "آخر الحركات": [
+    "Recent transactions",
+    "Opérations récentes",
+    "Movimientos recientes"
+  ],
+  "كل الحركات": [
+    "All transactions",
+    "Toutes les opérations",
+    "Todos los movimientos"
+  ],
+  "المرجع": [
+    "Reference",
+    "Référence",
+    "Referencia"
+  ],
+  "نوع الحركة": [
+    "Transaction type",
+    "Type d’opération",
+    "Tipo de movimiento"
+  ],
+  "افتح المهمة لتجد الإجراء المطلوب ورصيد العهدة.": [
+    "Open the task to see the required action and advance balance.",
+    "Ouvrez la mission pour voir l’action requise et le solde de l’avance.",
+    "Abra la tarea para ver la acción requerida y el saldo del anticipo."
+  ],
+  "المطلوب": [
+    "Required",
+    "Requis",
+    "Requerido"
+  ],
+  "العهدة / المرجع": [
+    "Advance / Reference",
+    "Avance / Référence",
+    "Anticipo / Referencia"
+  ],
+  "الإجراء": [
+    "Action",
+    "Action",
+    "Acción"
+  ],
+  "فتح المهمة": [
+    "Open task",
+    "Ouvrir la mission",
+    "Abrir tarea"
+  ],
+  "العهدة الأساسية من المالية، والتوزيع ينقل المبلغ للموظف ويظل مرتبطًا بنفس المهمة.": [
+    "The primary advance comes from Finance. Allocation transfers funds to an employee while keeping them linked to the same task.",
+    "L’avance principale provient de la finance. La répartition transfère les fonds à un employé tout en les maintenant liés à la même mission.",
+    "El anticipo principal procede de Finanzas. La asignación transfiere fondos a un empleado y los mantiene vinculados a la misma tarea."
+  ],
+  "توزيع لموظف": [
+    "Allocate to employee",
+    "Répartir à un employé",
+    "Asignar a un empleado"
+  ],
+  "مراجعة المصروفات والإثباتات": [
+    "Review expenses and evidence",
+    "Vérifier les dépenses et justificatifs",
+    "Revisar gastos y comprobantes"
+  ],
+  "الحفظ مسودة. الإرسال يسجل المصروف. المراجعة والاعتماد لا يخصمان مرة أخرى.": [
+    "Saving creates a draft. Submitting records the expense. Review and approval do not deduct it again.",
+    "L’enregistrement crée un brouillon. L’envoi comptabilise la dépense. La vérification et l’approbation ne la déduisent pas de nouveau.",
+    "Guardar crea un borrador. Enviar registra el gasto. La revisión y la aprobación no lo descuentan de nuevo."
+  ],
+  "لا يوجد مصروف اليوم": [
+    "No expense today",
+    "Aucune dépense aujourd’hui",
+    "Sin gastos hoy"
+  ],
+  "مصروف جديد": [
+    "New expense",
+    "Nouvelle dépense",
+    "Nuevo gasto"
+  ],
+  "إقرارات عدم الصرف": [
+    "No-spending declarations",
+    "Déclarations d’absence de dépenses",
+    "Declaraciones sin gastos"
+  ],
+  "تم تجاوزه بمصروف في نفس اليوم": [
+    "Superseded by an expense on the same day",
+    "Remplacée par une dépense du même jour",
+    "Sustituida por un gasto del mismo día"
+  ],
+  "لا مصروف — بلا أثر مالي": [
+    "No expense — no financial impact",
+    "Aucune dépense — aucun impact financier",
+    "Sin gasto — sin efecto financiero"
+  ],
+  "المرتجعات — رد مبلغ": [
+    "Returns — return funds",
+    "Restitutions — restituer un montant",
+    "Devoluciones — devolver fondos"
+  ],
+  "يمكن رد جزء أو كل المتاح. الرد لا يغلق العهدة ولا يعتمد المصروفات.": [
+    "You can return some or all available funds. A return neither closes the advance nor approves expenses.",
+    "Vous pouvez restituer tout ou partie des fonds disponibles. Une restitution ne clôture pas l’avance et n’approuve pas les dépenses.",
+    "Puede devolver todos o parte de los fondos disponibles. La devolución no cierra el anticipo ni aprueba los gastos."
+  ],
+  "رد مبلغ": [
+    "Return funds",
+    "Restituer un montant",
+    "Devolver fondos"
+  ],
+  "المرجع / العهدة": [
+    "Reference / Advance",
+    "Référence / Avance",
+    "Referencia / Anticipo"
+  ],
+  "من / إلى": [
+    "From / To",
+    "De / À",
+    "De / A"
+  ],
+  "المتبقي بالعهدة": [
+    "Advance balance remaining",
+    "Solde restant de l’avance",
+    "Saldo restante del anticipo"
+  ],
+  "الحالة / الإجراء": [
+    "Status / Action",
+    "Statut / Action",
+    "Estado / Acción"
+  ],
+  "إلى": [
+    "To",
+    "À",
+    "A"
+  ],
+  "المالية": [
+    "Finance",
+    "Finance",
+    "Finanzas"
+  ],
+  "التسوية مراجعة وإقفال مستقلان عن رد المال. كل عهدة تُسوّى وحدها.": [
+    "Settlement review and closure are separate from returning funds. Each advance is settled individually.",
+    "La vérification et la clôture de la régularisation sont distinctes de la restitution des fonds. Chaque avance est régularisée séparément.",
+    "La revisión y el cierre de la liquidación son independientes de la devolución de fondos. Cada anticipo se liquida por separado."
+  ],
+  "صاحب العهدة": [
+    "Advance holder",
+    "Titulaire de l’avance",
+    "Titular del anticipo"
+  ],
+  "المتبقي": [
+    "Remaining",
+    "Restant",
+    "Restante"
+  ],
+  "المطلوب للإقفال": [
+    "Required for closure",
+    "Requis pour la clôture",
+    "Requerido para el cierre"
+  ],
+  "طلب التسوية لدى المالية": [
+    "Settlement request with Finance",
+    "Demande de régularisation auprès de la finance",
+    "Solicitud de liquidación en Finanzas"
+  ],
+  "جاهزة للتسوية": [
+    "Ready for settlement",
+    "Prête à être régularisée",
+    "Listo para liquidar"
+  ],
+  "كشف وتسوية": [
+    "Statement and settlement",
+    "Relevé et régularisation",
+    "Estado de cuenta y liquidación"
+  ],
+  "الرصيد النقدي لدى كل شخص مستقل عن إجمالي ما يشرف عليه مسؤول العهدة.": [
+    "Each person’s cash balance is separate from the total overseen by the advance manager.",
+    "Le solde en espèces de chaque personne est distinct du total supervisé par le responsable de l’avance.",
+    "El saldo de efectivo de cada persona es independiente del total supervisado por el responsable del anticipo."
+  ],
+  "شخص جديد": [
+    "New person",
+    "Nouvelle personne",
+    "Nueva persona"
+  ],
+  "بحث الأشخاص": [
+    "Search people",
+    "Rechercher des personnes",
+    "Buscar personas"
+  ],
+  "ابحث بالاسم…": [
+    "Search by name…",
+    "Rechercher par nom…",
+    "Buscar por nombre…"
+  ],
+  "حالة الشخص": [
+    "Person status",
+    "Statut de la personne",
+    "Estado de la persona"
+  ],
+  "كل الأشخاص": [
+    "All people",
+    "Toutes les personnes",
+    "Todas las personas"
+  ],
+  "نشط": [
+    "Active",
+    "Actif",
+    "Activo"
+  ],
+  "معطل": [
+    "Disabled",
+    "Désactivé",
+    "Desactivado"
+  ],
+  "الشخص / الفريق": [
+    "Person / Team",
+    "Personne / Équipe",
+    "Persona / Equipo"
+  ],
+  "المستلم": [
+    "Received",
+    "Reçu",
+    "Recibido"
+  ],
+  "الموزع للموظفين": [
+    "Allocated to employees",
+    "Réparti aux employés",
+    "Asignado a empleados"
+  ],
+  "الرصيد معه": [
+    "Balance held",
+    "Solde détenu",
+    "Saldo en su poder"
+  ],
+  "الإجراءات": [
+    "Actions",
+    "Actions",
+    "Acciones"
+  ],
+  "تعديل": [
+    "Edit",
+    "Modifier",
+    "Editar"
+  ],
+  "تعطيل": [
+    "Disable",
+    "Désactiver",
+    "Desactivar"
+  ],
+  "تفعيل": [
+    "Enable",
+    "Activer",
+    "Activar"
+  ],
+  "أنشئ الشخص أولًا، ثم امنحه اسم مستخدم وكلمة مرور وصلاحية. تغيير الحساب ينهي جلساته القديمة.": [
+    "Create the person first, then assign a username, password, and role. Changing the account ends its previous sessions.",
+    "Créez d’abord la personne, puis attribuez-lui un nom d’utilisateur, un mot de passe et un rôle. Toute modification du compte met fin à ses sessions précédentes.",
+    "Cree primero la persona y asígnele un nombre de usuario, una contraseña y un rol. Modificar la cuenta cierra sus sesiones anteriores."
+  ],
+  "منح حساب دخول": [
+    "Grant sign-in account",
+    "Attribuer un compte de connexion",
+    "Asignar cuenta de acceso"
+  ],
+  "بيانات الدخول الجديدة — انسخها للشخص": [
+    "New sign-in details — copy them for the person",
+    "Nouveaux identifiants — copiez-les pour la personne",
+    "Nuevos datos de acceso — cópielos para la persona"
+  ],
+  "الرابط:": [
+    "Link:",
+    "Lien :",
+    "Enlace:"
+  ],
+  "اسم المستخدم:": [
+    "Username:",
+    "Nom d’utilisateur :",
+    "Nombre de usuario:"
+  ],
+  "كلمة المرور:": [
+    "Password:",
+    "Mot de passe :",
+    "Contraseña:"
+  ],
+  "تم نسخ بيانات الدخول": [
+    "Sign-in details copied",
+    "Identifiants copiés",
+    "Datos de acceso copiados"
+  ],
+  "يمكن تحديد البيانات ونسخها يدويًا": [
+    "You can select and copy the details manually",
+    "Vous pouvez sélectionner et copier les identifiants manuellement",
+    "Puede seleccionar y copiar los datos manualmente"
+  ],
+  "نسخ بيانات الدخول": [
+    "Copy sign-in details",
+    "Copier les identifiants",
+    "Copiar datos de acceso"
+  ],
+  "إخفاء البيانات": [
+    "Hide details",
+    "Masquer les identifiants",
+    "Ocultar datos"
+  ],
+  "لا تحتاج رمز دعوة. كلمة المرور لا يمكن استرجاعها من النظام؛ يمكن تعيين جديدة.": [
+    "No invitation code is needed. The password cannot be retrieved from the system; a new one can be set.",
+    "Aucun code d’invitation n’est requis. Le mot de passe ne peut pas être récupéré depuis le système ; vous pouvez en définir un nouveau.",
+    "No necesita un código de invitación. La contraseña no se puede recuperar del sistema; puede establecer una nueva."
+  ],
+  "بحث حسابات المستخدمين": [
+    "Search user accounts",
+    "Rechercher des comptes utilisateurs",
+    "Buscar cuentas de usuario"
+  ],
+  "ابحث باسم الشخص أو اسم المستخدم…": [
+    "Search by person’s name or username…",
+    "Rechercher par nom de personne ou nom d’utilisateur…",
+    "Buscar por nombre de persona o de usuario…"
+  ],
+  "تعديل / كلمة مرور": [
+    "Edit / Password",
+    "Modifier / Mot de passe",
+    "Editar / Contraseña"
+  ],
+  "تعطيل الحساب": [
+    "Disable account",
+    "Désactiver le compte",
+    "Desactivar cuenta"
+  ],
+  "تفعيل الحساب": [
+    "Enable account",
+    "Activer le compte",
+    "Activar cuenta"
+  ],
+  "مالك النظام له كل الصلاحيات. كل مستخدم آخر يرى الإجراءات المسموحة له وبيانات نطاقه.": [
+    "The system owner has all permissions. Other users see only their permitted actions and data within their scope.",
+    "Le propriétaire du système dispose de toutes les autorisations. Les autres utilisateurs voient uniquement les actions autorisées et les données de leur périmètre.",
+    "El propietario del sistema tiene todos los permisos. Los demás usuarios solo ven sus acciones permitidas y los datos de su ámbito."
+  ],
+  "هذه الصفحة لمسؤول النظام فقط": [
+    "This page is for the system administrator only",
+    "Cette page est réservée à l’administrateur système",
+    "Esta página es solo para el administrador del sistema"
+  ],
+  "تقارير العهد والمصروفات": [
+    "Advance and expense reports",
+    "Rapports des avances et dépenses",
+    "Informes de anticipos y gastos"
+  ],
+  "التوزيع والرد الداخلي ظاهران كحركات عهدة؛ لا يُحسبان مصروفًا ولا صرفًا جديدًا من المالية.": [
+    "Allocations and internal returns appear as advance transactions; they count as neither expenses nor new Finance disbursements.",
+    "Les répartitions et restitutions internes apparaissent comme des opérations sur avances ; elles ne sont comptabilisées ni comme des dépenses ni comme de nouveaux versements de la finance.",
+    "Las asignaciones y devoluciones internas aparecen como movimientos de anticipos; no se contabilizan como gastos ni como nuevos desembolsos de Finanzas."
+  ],
+  "العهدة الأساسية": [
+    "Primary advance",
+    "Avance principale",
+    "Anticipo principal"
+  ],
+  "العهدة المرتبطة": [
+    "Linked advance",
+    "Avance liée",
+    "Anticipo vinculado"
+  ],
+  "المهمة": [
+    "Task",
+    "Mission",
+    "Tarea"
+  ],
+  "المصدر / المستلم": [
+    "Source / Recipient",
+    "Source / Bénéficiaire",
+    "Origen / Destinatario"
+  ],
+  "الوسيلة": [
+    "Method",
+    "Mode",
+    "Método"
+  ],
+  "الأثر المسجل": [
+    "Recorded impact",
+    "Impact enregistré",
+    "Efecto registrado"
+  ],
+  "الوصف": [
+    "Description",
+    "Description",
+    "Descripción"
+  ],
+  "تصدير الحركات إلى Excel / CSV": [
+    "Export transactions to Excel / CSV",
+    "Exporter les opérations vers Excel / CSV",
+    "Exportar movimientos a Excel / CSV"
+  ],
+  "من تاريخ": [
+    "From date",
+    "Date de début",
+    "Desde la fecha"
+  ],
+  "إلى تاريخ": [
+    "To date",
+    "Date de fin",
+    "Hasta la fecha"
+  ],
+  "الكل": [
+    "All",
+    "Tout",
+    "Todo"
+  ],
+  "مسح الفلاتر": [
+    "Clear filters",
+    "Effacer les filtres",
+    "Borrar filtros"
+  ],
+  "مصروف بانتظار المراجعة ·": [
+    "Expense pending review ·",
+    "Dépense en attente de vérification ·",
+    "Gasto pendiente de revisión ·"
+  ],
+  "معتمد ·": [
+    "Approved ·",
+    "Approuvé ·",
+    "Aprobado ·"
+  ],
+  "مطلوب تصحيح. صافي الفلاتر ليس الرصيد الختامي؛ كشف العهدة أدناه يعرض رصيدها الكامل.": [
+    "Correction required. The filtered net amount is not the closing balance; the advance statement below shows its full balance.",
+    "Correction requise. Le montant net filtré n’est pas le solde de clôture ; le relevé de l’avance ci-dessous affiche son solde complet.",
+    "Se requiere corrección. El importe neto filtrado no es el saldo de cierre; el estado del anticipo de abajo muestra su saldo completo."
+  ],
+  "كشف العهد — الرصيد الكامل لكل عهدة": [
+    "Advance statement — full balance for each advance",
+    "Relevé des avances — solde complet de chaque avance",
+    "Estado de anticipos — saldo completo de cada anticipo"
+  ],
+  "العهدة": [
+    "Advance",
+    "Avance",
+    "Anticipo"
+  ],
+  "العهدة الأصلية": [
+    "Original advance",
+    "Avance d’origine",
+    "Anticipo original"
+  ],
+  "الموزع": [
+    "Allocated",
+    "Réparti",
+    "Asignado"
+  ],
+  "رد داخلي مستلم": [
+    "Internal return received",
+    "Restitution interne reçue",
+    "Devolución interna recibida"
+  ],
+  "المتبقي معه": [
+    "Remaining held",
+    "Restant détenu",
+    "Restante en su poder"
+  ],
+  "المتاح": [
+    "Available",
+    "Disponible",
+    "Disponible"
+  ],
+  "المسؤول عنه إجمالًا": [
+    "Total under responsibility",
+    "Total sous responsabilité",
+    "Total bajo responsabilidad"
+  ],
+  "تصدير كشف الأرصدة": [
+    "Export balance statement",
+    "Exporter le relevé des soldes",
+    "Exportar estado de saldos"
+  ],
+  "صاحبها": [
+    "Owner",
+    "Titulaire",
+    "Titular"
+  ],
+  "المستلم / الموزع": [
+    "Recipient / allocator",
+    "Bénéficiaire / répartiteur",
+    "Destinatario / distribuidor"
+  ],
+  "مصروف / مردود": [
+    "Spent / returned",
+    "Dépensé / restitué",
+    "Gastado / devuelto"
+  ],
+  "من": [
+    "From",
+    "De",
+    "De"
+  ],
+  "أساسية": [
+    "Primary",
+    "Principale",
+    "Principal"
+  ],
+  "موزع": [
+    "Allocated",
+    "Réparti",
+    "Distribuido"
+  ],
+  "مردود": [
+    "Returned",
+    "Restitué",
+    "Devuelto"
+  ],
+  "ضمن": [
+    "Within",
+    "Dans",
+    "Dentro de"
+  ],
+  "المصروف حسب الشخص": [
+    "Spending by person",
+    "Dépenses par personne",
+    "Gastos por persona"
+  ],
+  "عدد المصروفات": [
+    "Expense count",
+    "Nombre de dépenses",
+    "Número de gastos"
+  ],
+  "اتجاه المصروف اليومي / الشهري": [
+    "Daily / monthly spending trend",
+    "Évolution des dépenses par jour / mois",
+    "Evolución de gastos diarios / mensuales"
+  ],
+  "الفترة": [
+    "Period",
+    "Période",
+    "Período"
+  ],
+  "اليوم / الشهر": [
+    "Day / month",
+    "Jour / mois",
+    "Día / mes"
+  ],
+  "شهري": [
+    "Monthly",
+    "Mensuel",
+    "Mensual"
+  ],
+  "يومي": [
+    "Daily",
+    "Quotidien",
+    "Diario"
+  ],
+  "الحركات التي تفسّر التقرير": [
+    "Transactions behind this report",
+    "Opérations à l’origine de ce rapport",
+    "Movimientos que explican este informe"
+  ],
+  "افتح المرجع للإثبات والتاريخ": [
+    "Open the reference for evidence and history",
+    "Ouvrez la référence pour voir le justificatif et l’historique",
+    "Abra la referencia para ver el comprobante y el historial"
+  ],
+  "الحركة / العهدة": [
+    "Transaction / advance",
+    "Opération / avance",
+    "Movimiento / anticipo"
+  ],
+  "المبلغ المسجل": [
+    "Recorded amount",
+    "Montant enregistré",
+    "Importe registrado"
+  ],
+  "وقت الإجراء، صاحبه، وصلاحيته. السجل محفوظ ولا يُعدّل من الواجهة.": [
+    "Action time, actor, and permission. The log is retained and cannot be edited in the interface.",
+    "Date de l’action, auteur et autorisation. Le journal est conservé et ne peut pas être modifié dans l’interface.",
+    "Fecha de la acción, responsable y permiso. El registro se conserva y no se puede editar desde la interfaz."
+  ],
+  "الوقت": [
+    "Time",
+    "Date et heure",
+    "Fecha y hora"
+  ],
+  "الفاعل / الصلاحية": [
+    "Actor / permission",
+    "Auteur / autorisation",
+    "Responsable / permiso"
+  ],
+  "السجل": [
+    "Log",
+    "Journal",
+    "Registro"
+  ],
+  "ملخص التغيير": [
+    "Change summary",
+    "Résumé des modifications",
+    "Resumen del cambio"
+  ],
+  "عرض التفاصيل": [
+    "View details",
+    "Voir les détails",
+    "Ver detalles"
+  ],
+  "قبل:": [
+    "Before:",
+    "Avant :",
+    "Antes:"
+  ],
+  "بعد:": [
+    "After:",
+    "Après :",
+    "Después:"
+  ],
+  "يمكن لأي صاحب عهدة إضافة بند جديد أثناء تسجيل المصروف. تعديل البنود وتعطيلها للمالية ومسؤول النظام.": [
+    "Any advance holder can add a category while recording an expense. Finance and the system administrator can edit and disable categories.",
+    "Tout titulaire d’une avance peut ajouter une catégorie lors de la saisie d’une dépense. Le service financier et l’administrateur système peuvent modifier et désactiver les catégories.",
+    "Cualquier titular de un anticipo puede añadir una categoría al registrar un gasto. Finanzas y el administrador del sistema pueden editar y desactivar las categorías."
+  ],
+  "بنود المصروف": [
+    "Expense categories",
+    "Catégories de dépenses",
+    "Categorías de gastos"
+  ],
+  "بند جديد": [
+    "New category",
+    "Nouvelle catégorie",
+    "Nueva categoría"
+  ],
+  "اسم البند": [
+    "Category name",
+    "Nom de la catégorie",
+    "Nombre de la categoría"
+  ],
+  "تعديل البند": [
+    "Edit category",
+    "Modifier la catégorie",
+    "Editar categoría"
+  ],
+  "تعديل البنود للمالية ومسؤول النظام": [
+    "Category editing is reserved for Finance and the system administrator",
+    "La modification des catégories est réservée au service financier et à l’administrateur système",
+    "La edición de categorías corresponde a Finanzas y al administrador del sistema"
+  ],
+  "إدارة مساحة المالك": [
+    "Manage owner's workspace",
+    "Gérer l’espace du propriétaire",
+    "Gestionar el espacio del propietario"
+  ],
+  "تهيئة التجربة تحفظ الأشخاص والحسابات والسجلات السابقة في الأرشيف.": [
+    "Resetting the demo preserves people, accounts, and previous records in the archive.",
+    "La réinitialisation de la démo conserve les personnes, les comptes et les anciens enregistrements dans les archives.",
+    "Al reiniciar la demostración, se conservan las personas, las cuentas y los registros anteriores en el archivo."
+  ],
+  "إعادة تهيئة مالية لمساحة التجربة": [
+    "Reset demo workspace finances",
+    "Réinitialiser les finances de l’espace de démonstration",
+    "Reiniciar las finanzas del espacio de demostración"
+  ],
+  "اكتب إعادة تهيئة للتأكيد": [
+    "Type إعادة تهيئة to confirm",
+    "Saisissez إعادة تهيئة pour confirmer",
+    "Escriba إعادة تهيئة para confirmar"
+  ],
+  "إعادة تهيئة مساحة التجربة": [
+    "Reset demo workspace",
+    "Réinitialiser l’espace de démonstration",
+    "Reiniciar el espacio de demostración"
+  ],
+  "الأرشيف (": [
+    "Archive (",
+    "Archives (",
+    "Archivo ("
+  ],
+  "عهدة": [
+    "Advance",
+    "Avance",
+    "Anticipo"
+  ],
+  "تنزيل الأرشيف": [
+    "Download archive",
+    "Télécharger les archives",
+    "Descargar archivo"
+  ],
+  "ملاحظة جديدة": [
+    "New note",
+    "Nouvelle note",
+    "Nueva nota"
+  ],
+  "نوع الملاحظة": [
+    "Note type",
+    "Type de note",
+    "Tipo de nota"
+  ],
+  "احتفظ": [
+    "Keep",
+    "Conserver",
+    "Conservar"
+  ],
+  "عدّل": [
+    "Edit",
+    "Modifier",
+    "Editar"
+  ],
+  "احذف": [
+    "Delete",
+    "Supprimer",
+    "Eliminar"
+  ],
+  "ملاحظة": [
+    "Note",
+    "Note",
+    "Nota"
+  ],
+  "الملاحظة": [
+    "Note",
+    "Note",
+    "Nota"
+  ],
+  "أضف ملاحظة": [
+    "Add note",
+    "Ajouter une note",
+    "Añadir nota"
+  ],
+  "النوع": [
+    "Type",
+    "Type",
+    "Tipo"
+  ],
+  "عُهدة · بيانات وهمية للتجربة": [
+    "Uhda · Sample data for the demo",
+    "Uhda · Données fictives de démonstration",
+    "Uhda · Datos ficticios de demostración"
+  ],
+  "صرف · توزيع · مصروف · رد · تسوية": [
+    "Issue · Allocate · Expense · Return · Settle",
+    "Versement · Répartition · Dépense · Restitution · Règlement",
+    "Entrega · Distribución · Gasto · Devolución · Liquidación"
+  ],
+  "إغلاق التفاصيل": [
+    "Close details",
+    "Fermer les détails",
+    "Cerrar detalles"
+  ],
+  "· المهمة:": [
+    "· Task:",
+    "· Tâche :",
+    "· Tarea:"
+  ],
+  "عهدة أساسية من المالية": [
+    "Primary advance from Finance",
+    "Avance principale du service financier",
+    "Anticipo principal de Finanzas"
+  ],
+  "وسيلة المبلغ:": [
+    "Payment method:",
+    "Mode de paiement :",
+    "Método de pago:"
+  ],
+  "· المرجع:": [
+    "· Reference:",
+    "· Référence :",
+    "· Referencia:"
+  ],
+  "مع صاحب العهدة الآن": [
+    "Currently held by the advance holder",
+    "Actuellement détenu par le titulaire de l’avance",
+    "Actualmente en poder del titular del anticipo"
+  ],
+  "محجوز": [
+    "Reserved",
+    "Réservé",
+    "Reservado"
+  ],
+  "متاح للصرف والرد": [
+    "Available to spend or return",
+    "Disponible pour dépenses ou restitution",
+    "Disponible para gastar o devolver"
+  ],
+  "يشمل ما لدى الموظفين. الموزّع لهم": [
+    "Includes funds held by employees. Allocated to them",
+    "Inclut les fonds détenus par les employés. Répartis entre eux",
+    "Incluye los fondos en poder de los empleados. Distribuidos a ellos"
+  ],
+  "المطلوب لاستلام هذه العهدة": [
+    "Required to receive this advance",
+    "Requis pour recevoir cette avance",
+    "Necesario para recibir este anticipo"
+  ],
+  "مؤكد": [
+    "Confirmed",
+    "Confirmé",
+    "Confirmado"
+  ],
+  "لم يؤكد": [
+    "Unconfirmed",
+    "Non confirmé",
+    "Sin confirmar"
+  ],
+  "أكد الاستلام ليصبح المبلغ متاحًا": [
+    "Confirm receipt to make the funds available",
+    "Confirmez la réception pour rendre les fonds disponibles",
+    "Confirme la recepción para disponer de los fondos"
+  ],
+  "توزيع مبلغ لموظف": [
+    "Allocate funds to an employee",
+    "Allouer des fonds à un employé",
+    "Distribuir fondos a un empleado"
+  ],
+  "مصروف من هذه العهدة": [
+    "Expense from this advance",
+    "Dépense sur cette avance",
+    "Gasto de este anticipo"
+  ],
+  "رد جزء / كل المتاح": [
+    "Return some / all available funds",
+    "Restituer une partie / la totalité des fonds disponibles",
+    "Devolver parte / todos los fondos disponibles"
+  ],
+  "التسوية والإقفال": [
+    "Settlement and closure",
+    "Règlement et clôture",
+    "Liquidación y cierre"
+  ],
+  "الرصيد صفر والمصروفات محسومة؛ جاهزة للتسوية.": [
+    "Balance is zero and expenses are finalized; ready for settlement.",
+    "Le solde est nul et les dépenses sont finalisées ; l’avance est prête à être réglée.",
+    "El saldo es cero y los gastos están resueltos; listo para liquidar."
+  ],
+  "اعتماد وإقفال هذه التسوية": [
+    "Approve and close this settlement",
+    "Valider et clôturer ce règlement",
+    "Aprobar y cerrar esta liquidación"
+  ],
+  "التسوية مقدمة للمالية": [
+    "Settlement submitted to Finance",
+    "Règlement soumis au service financier",
+    "Liquidación enviada a Finanzas"
+  ],
+  "تقديم تسوية للمالية": [
+    "Submit settlement to Finance",
+    "Soumettre le règlement au service financier",
+    "Enviar liquidación a Finanzas"
+  ],
+  "سحب طلب التسوية وإعادة فتح العهدة": [
+    "Withdraw settlement request and reopen advance",
+    "Retirer la demande de règlement et rouvrir l’avance",
+    "Retirar la solicitud de liquidación y reabrir el anticipo"
+  ],
+  "سحب طلب التسوية بسبب": [
+    "Reason for withdrawing the settlement request",
+    "Motif du retrait de la demande de règlement",
+    "Motivo de retirada de la solicitud de liquidación"
+  ],
+  "إقفال التسوية لا يخصم أي مبلغ جديد.": [
+    "Closing a settlement does not deduct any additional amount.",
+    "La clôture d’un règlement ne déduit aucun montant supplémentaire.",
+    "Cerrar una liquidación no descuenta ningún importe adicional."
+  ],
+  "المبالغ الموزعة من هذه العهدة": [
+    "Funds allocated from this advance",
+    "Fonds répartis depuis cette avance",
+    "Fondos distribuidos de este anticipo"
+  ],
+  "مصروفات هذه العهدة والموظفين التابعين": [
+    "Expenses from this advance and its assigned employees",
+    "Dépenses de cette avance et des employés rattachés",
+    "Gastos de este anticipo y de los empleados asociados"
+  ],
+  "المرتجعات المرتبطة": [
+    "Related returns",
+    "Restitutions associées",
+    "Devoluciones relacionadas"
+  ],
+  "إلى مسؤول العهدة": [
+    "To the advance manager",
+    "Au responsable de l’avance",
+    "Al responsable del anticipo"
+  ],
+  "إلى المالية": [
+    "To Finance",
+    "Au service financier",
+    "A Finanzas"
+  ],
+  "كشف تفصيلي / تصدير Excel لهذه العهدة": [
+    "Detailed statement / Excel export for this advance",
+    "Relevé détaillé / export Excel de cette avance",
+    "Estado detallado / exportación a Excel de este anticipo"
+  ],
+  "البند:": [
+    "Category:",
+    "Catégorie :",
+    "Categoría:"
+  ],
+  "المصروف المسجل فعليًا:": [
+    "Expense actually recorded:",
+    "Dépense effectivement enregistrée :",
+    "Gasto efectivamente registrado:"
+  ],
+  "المتاح الآن في": [
+    "Currently available in",
+    "Actuellement disponible dans",
+    "Disponible ahora en"
+  ],
+  "لا يوجد إثبات كتابي": [
+    "No written evidence",
+    "Aucun justificatif écrit",
+    "Sin comprobante escrito"
+  ],
+  "KB · فتح / تنزيل": [
+    "KB · Open / download",
+    "KB · Ouvrir / télécharger",
+    "KB · Abrir / descargar"
+  ],
+  "سبب الإعادة:": [
+    "Reason for sending back:",
+    "Motif du renvoi :",
+    "Motivo de devolución para corregir:"
+  ],
+  "تعديل وإضافة إثبات": [
+    "Edit and add evidence",
+    "Modifier et ajouter un justificatif",
+    "Editar y añadir comprobante"
+  ],
+  "إعادة إرسال التصحيح": [
+    "Resubmit correction",
+    "Renvoyer la correction",
+    "Reenviar corrección"
+  ],
+  "إرسال للمراجعة": [
+    "Submit for review",
+    "Soumettre à vérification",
+    "Enviar a revisión"
+  ],
+  "حذف مسودة غير مرسلة": [
+    "Delete an unsubmitted draft",
+    "Supprimer un brouillon non soumis",
+    "Eliminar un borrador sin enviar"
+  ],
+  "حذف المسودة": [
+    "Delete draft",
+    "Supprimer le brouillon",
+    "Eliminar borrador"
+  ],
+  "اعتماد مالي نهائي": [
+    "Final Finance approval",
+    "Validation finale du service financier",
+    "Aprobación final de Finanzas"
+  ],
+  "راجعت الإثبات — أرسل للمالية": [
+    "Evidence reviewed — send to Finance",
+    "Justificatif vérifié — envoyer au service financier",
+    "Comprobante revisado — enviar a Finanzas"
+  ],
+  "إعادة المصروف للتصحيح": [
+    "Send expense back for correction",
+    "Renvoyer la dépense pour correction",
+    "Devolver gasto para corregir"
+  ],
+  "إعادة بسبب": [
+    "Reason for sending back",
+    "Motif du renvoi",
+    "Motivo de devolución para corregir"
+  ],
+  "تاريخ المصروف والتصحيح": [
+    "Expense and correction history",
+    "Historique de la dépense et des corrections",
+    "Historial del gasto y las correcciones"
+  ],
+  "يرجع إلى:": [
+    "Returned to:",
+    "Restitué à :",
+    "Devuelto a:"
+  ],
+  "وسيلة الرد:": [
+    "Return method:",
+    "Mode de restitution :",
+    "Método de devolución:"
+  ],
+  "الرصيد في": [
+    "Balance in",
+    "Solde dans",
+    "Saldo en"
+  ],
+  "الآن": [
+    "Now",
+    "Maintenant",
+    "Ahora"
+  ],
+  "بعد تأكيد هذا الرد يبقى": [
+    "After this return is confirmed, the remaining balance is",
+    "Après confirmation de cette restitution, le solde restant est",
+    "Tras confirmar esta devolución, queda"
+  ],
+  "الرد حركة مبلغ فقط. مراجعة المصروفات والتسوية لهما إجراءات مستقلة.": [
+    "A return only moves funds. Expense review and settlement follow separate procedures.",
+    "Une restitution déplace uniquement des fonds. La vérification des dépenses et le règlement suivent des procédures distinctes.",
+    "Una devolución solo mueve fondos. La revisión de gastos y la liquidación tienen procedimientos independientes."
+  ],
+  "إلغاء طلب الرد وتحرير المبلغ المحجوز": [
+    "Cancel return request and release reserved funds",
+    "Annuler la demande de restitution et libérer les fonds réservés",
+    "Cancelar la solicitud de devolución y liberar los fondos reservados"
+  ],
+  "إلغاء طلب الرد بسبب": [
+    "Reason for canceling the return request",
+    "Motif d’annulation de la demande de restitution",
+    "Motivo de cancelación de la solicitud de devolución"
+  ],
+  "عكس حركة — مع حفظ السجل": [
+    "Reverse transaction — retain the log",
+    "Contrepasser l’opération — conserver le journal",
+    "Revertir movimiento — conservar el registro"
+  ],
+  "عكس تجريبي بسبب": [
+    "Reason for demo reversal",
+    "Motif de contrepassation de démonstration",
+    "Motivo de reversión de demostración"
+  ],
+  "إغلاق النموذج": [
+    "Close form",
+    "Fermer le formulaire",
+    "Cerrar formulario"
+  ],
+  "تم تبديل المحاكاة صراحة؛ لا إجراء مالي تلقائي": [
+    "Simulation explicitly switched; no automatic financial action",
+    "Simulation changée explicitement ; aucune opération financière automatique",
+    "Simulación cambiada expresamente; ninguna acción financiera automática"
+  ],
+  "تم الحفظ؛ حدّث قائمة المصروفات": [
+    "Saved; refresh the expense list",
+    "Enregistré ; actualisez la liste des dépenses",
+    "Guardado; actualice la lista de gastos"
+  ],
+  "المسودة والإثبات محفوظان. افتح المصروف ثم أرسله للمراجعة.": [
+    "Draft and evidence saved. Open the expense, then submit it for review.",
+    "Brouillon et justificatif enregistrés. Ouvrez la dépense, puis soumettez-la à vérification.",
+    "Borrador y comprobante guardados. Abra el gasto y envíelo a revisión."
+  ],
+  "تم إنشاء بيانات الدخول وصلاحية المستخدم": [
+    "Login credentials and user permission created",
+    "Identifiants de connexion et autorisation utilisateur créés",
+    "Credenciales de acceso y permiso de usuario creados"
+  ],
+  "(اختياري)": [
+    "(Optional)",
+    "(Facultatif)",
+    "(Opcional)"
+  ],
+  "بحث بنود المصروف": [
+    "Search expense categories",
+    "Rechercher des catégories de dépenses",
+    "Buscar categorías de gastos"
+  ],
+  "ابحث في البنود…": [
+    "Search categories…",
+    "Rechercher des catégories…",
+    "Buscar categorías…"
+  ],
+  "اختر": [
+    "Select",
+    "Sélectionner",
+    "Seleccionar"
+  ],
+  "أو اتركه فارغًا": [
+    "Or leave it blank",
+    "Ou laissez ce champ vide",
+    "O déjelo en blanco"
+  ],
+  "كل المتاح": [
+    "All available funds",
+    "Tous les fonds disponibles",
+    "Todos los fondos disponibles"
+  ],
+  "بعد إرسال المصروف": [
+    "After submitting the expense",
+    "Après soumission de la dépense",
+    "Tras enviar el gasto"
+  ],
+  "بعد تأكيد الرد": [
+    "After confirming the return",
+    "Après confirmation de la restitution",
+    "Tras confirmar la devolución"
+  ],
+  "بعد اكتمال التوزيع": [
+    "After completing the allocation",
+    "Après la répartition",
+    "Tras completar la distribución"
+  ],
+  "المبلغ أكبر من المتاح في هذه العهدة. اختر عهدة أخرى أو قلل المبلغ.": [
+    "The amount exceeds the available funds in this advance. Choose another advance or reduce the amount.",
+    "Le montant dépasse les fonds disponibles dans cette avance. Choisissez une autre avance ou réduisez le montant.",
+    "El importe supera los fondos disponibles en este anticipo. Elija otro anticipo o reduzca el importe."
+  ],
+  "اسم بند المصروف الجديد": [
+    "New expense category name",
+    "Nom de la nouvelle catégorie de dépenses",
+    "Nombre de la nueva categoría de gastos"
+  ],
+  "اكتب أي بند مناسب للمصروف": [
+    "Enter a suitable category for the expense",
+    "Saisissez une catégorie adaptée à la dépense",
+    "Escriba una categoría adecuada para el gasto"
+  ],
+  "سيتضاف تلقائيًا ويظهر في القائمة لكل مستخدمي المساحة.": [
+    "It will be added automatically and appear in the list for all workspace users.",
+    "Elle sera ajoutée automatiquement et apparaîtra dans la liste pour tous les utilisateurs de l’espace.",
+    "Se añadirá automáticamente y aparecerá en la lista para todos los usuarios del espacio."
+  ],
+  "اكتب وصف المصروف أولًا": [
+    "Enter the expense description first",
+    "Saisissez d’abord la description de la dépense",
+    "Escriba primero la descripción del gasto"
+  ],
+  "استخدم وصف المصروف كإثبات كتابي": [
+    "Use the expense description as written evidence",
+    "Utiliser la description de la dépense comme justificatif écrit",
+    "Usar la descripción del gasto como comprobante escrito"
+  ],
+  "إرفاق صورة أو ملف — اختياري إن كتبت الإثبات": [
+    "Attach an image or file — optional if written evidence is provided",
+    "Joindre une image ou un fichier — facultatif si un justificatif écrit est fourni",
+    "Adjuntar una imagen o un archivo — opcional si hay un comprobante escrito"
+  ],
+  "حتى 5 مرفقات للمصروف، 10 MB لكل ملف. تُرفع عند حفظ المسودة.": [
+    "Up to 5 attachments per expense, 10 MB per file. Uploaded when saving the draft.",
+    "Jusqu’à 5 pièces jointes par dépense, 10 MB par fichier. Elles sont téléversées lors de l’enregistrement du brouillon.",
+    "Hasta 5 adjuntos por gasto, 10 MB por archivo. Se suben al guardar el borrador."
+  ],
+  "حفظ المسودة لا يخصم. يلزم إثبات كتابي أو مرفق عند الإرسال. التصحيح لا يغيّر المبلغ المسجل إلا عند إعادة الإرسال.": [
+    "Saving a draft does not deduct funds. Written evidence or an attachment is required for submission. A correction changes the recorded amount only when resubmitted.",
+    "Enregistrer un brouillon ne déduit pas de fonds. Un justificatif écrit ou une pièce jointe est requis pour la soumission. Une correction ne modifie le montant enregistré que lors de son renvoi.",
+    "Guardar un borrador no descuenta fondos. Para enviarlo, se requiere un comprobante escrito o un adjunto. Una corrección solo cambia el importe registrado cuando se reenvía."
+  ],
+  "النقدي: التوزيع محجوز، ويصبح عهدة الموظف بعد تأكيد التسليم والاستلام.": [
+    "Cash: allocated funds are reserved and become the employee’s advance after both handover and receipt are confirmed.",
+    "Espèces : les fonds répartis sont réservés et deviennent l’avance de l’employé après confirmation de la remise et de la réception.",
+    "Efectivo: los fondos distribuidos quedan reservados y pasan a ser el anticipo del empleado tras confirmar la entrega y la recepción."
+  ],
+  "سجّل هنا تحويلًا تم تنفيذه فعلًا. المبلغ يصبح عهدة المستلم فور الحفظ، ويظهر في دفاتر مسؤول العهدة.": [
+    "Record a transfer that has already been completed. The amount becomes the recipient’s advance as soon as it is saved and appears in the advance manager’s ledger.",
+    "Enregistrez un virement déjà effectué. Le montant devient l’avance du bénéficiaire dès l’enregistrement et apparaît dans les comptes du responsable de l’avance.",
+    "Registre una transferencia ya realizada. El importe pasa a ser el anticipo del destinatario al guardarlo y aparece en los libros del responsable del anticipo."
+  ],
+  "الرد الجزئي أو الكامل لا يغلق العهدة. انتظر تأكيد المستلم للرد، ثم سوِّ العهدة من صفحة التسويات.": [
+    "A partial or full return does not close the advance. Wait for the recipient to confirm the return, then settle the advance on the Settlements page.",
+    "Une restitution partielle ou totale ne clôture pas l’avance. Attendez que le bénéficiaire confirme la restitution, puis réglez l’avance depuis la page Règlements.",
+    "Una devolución parcial o total no cierra el anticipo. Espere a que el destinatario confirme la devolución y después liquide el anticipo desde la página Liquidaciones."
+  ],
+  "سيتم تصفير الحركات والبنود، وحفظها مؤرشفة. الأشخاص والحسابات تبقى.": [
+    "Transactions and categories will be reset and archived. People and accounts will remain.",
+    "Les opérations et les catégories seront réinitialisées et archivées. Les personnes et les comptes seront conservés.",
+    "Los movimientos y las categorías se reiniciarán y se archivarán. Se conservarán las personas y las cuentas."
+  ],
+  "حذف هذه المسودة؟ لا توجد لها حركة مالية.": [
+    "Delete this draft? It has no financial transaction.",
+    "Supprimer ce brouillon ? Il n’a aucune opération financière.",
+    "¿Eliminar este borrador? No tiene ningún movimiento financiero."
+  ],
+  "رجوع": [
+    "Back",
+    "Retour",
+    "Volver"
+  ],
+  "جارٍ الحفظ…": [
+    "Saving…",
+    "Enregistrement…",
+    "Guardando…"
+  ],
+  "حفظ المسودة والإثبات": [
+    "Save draft and evidence",
+    "Enregistrer le brouillon et le justificatif",
+    "Guardar borrador y comprobante"
+  ],
+  "تأكيد وحفظ": [
+    "Confirm and save",
+    "Confirmer et enregistrer",
+    "Confirmar y guardar"
+  ],
+  "المهام والمشاريع": [
+    "Tasks and projects",
+    "Missions et projets",
+    "Tareas y proyectos"
+  ],
+  "بانتظار المراجعة الإضافية": [
+    "Awaiting additional review",
+    "En attente de vérification supplémentaire",
+    "Pendiente de revisión adicional"
+  ],
+  "تسوية جزئية مقدمة": [
+    "Partial settlement submitted",
+    "Régularisation partielle soumise",
+    "Liquidación parcial enviada"
+  ],
+  "تسوية ملغاة": [
+    "Settlement cancelled",
+    "Régularisation annulée",
+    "Liquidación cancelada"
+  ],
+  "بانتظار تأكيد استلام المرتجع": [
+    "Awaiting confirmation of returned funds receipt",
+    "En attente de confirmation de réception des fonds restitués",
+    "Pendiente de confirmar recepción de fondos devueltos"
+  ],
+  "· متاح": [
+    "· Available",
+    "· Disponible",
+    "· Disponible"
+  ],
+  "المهمة / المشروع": [
+    "Task / project",
+    "Mission / projet",
+    "Tarea / proyecto"
+  ],
+  "تعديل مسودة المصروف": [
+    "Edit expense draft",
+    "Modifier le brouillon de dépense",
+    "Editar borrador de gasto"
+  ],
+  "مراجعة إضافية من المدير": [
+    "Additional manager review",
+    "Vérification supplémentaire du responsable",
+    "Revisión adicional del supervisor"
+  ],
+  "مصروف آخر 7 أيام في الفترة": [
+    "Expenses in the last 7 days of the period",
+    "Dépenses des 7 derniers jours de la période",
+    "Gastos de los últimos 7 días del período"
+  ],
+  "مرفق": [
+    "Attachment",
+    "Pièce jointe",
+    "Adjunto"
+  ],
+  "تعديل المهمة": [
+    "Edit task",
+    "Modifier la mission",
+    "Editar tarea"
+  ],
+  "إضافة مهمة / مشروع": [
+    "Add task / project",
+    "Ajouter une mission / un projet",
+    "Añadir tarea / proyecto"
+  ],
+  "اسم المهمة / المشروع": [
+    "Task / project name",
+    "Nom de la mission / du projet",
+    "Nombre de la tarea / del proyecto"
+  ],
+  "الميزانية — اختياري": [
+    "Budget — optional",
+    "Budget — facultatif",
+    "Presupuesto — opcional"
+  ],
+  "وصف مختصر": [
+    "Brief description",
+    "Description courte",
+    "Descripción breve"
+  ],
+  "لا توجد مصروفات معتمدة لم تدخل تسوية جزئية": [
+    "No approved expenses remain outside a partial settlement",
+    "Aucune dépense approuvée ne reste hors d’une régularisation partielle",
+    "No quedan gastos aprobados sin incluir en una liquidación parcial"
+  ],
+  "تقديم تسوية جزئية — العهدة تظل مفتوحة": [
+    "Submit partial settlement — the advance stays open",
+    "Soumettre une régularisation partielle — l’avance reste ouverte",
+    "Enviar liquidación parcial — el anticipo sigue abierto"
+  ],
+  "اختر المصروفات المعتمدة": [
+    "Select approved expenses",
+    "Sélectionner les dépenses approuvées",
+    "Seleccionar gastos aprobados"
+  ],
+  "ملاحظة التسوية": [
+    "Settlement note",
+    "Note de régularisation",
+    "Nota de liquidación"
+  ],
+  "اختر عهدة مفتوحة أولًا لنسخ المصروف": [
+    "Select an open advance first to copy the expense",
+    "Sélectionnez d’abord une avance ouverte pour copier la dépense",
+    "Primero selecciona un anticipo abierto para copiar el gasto"
+  ],
+  "نسخة جديدة كمسودة؛ أضف إثباتها قبل الإرسال": [
+    "New copy as a draft; add its evidence before submitting",
+    "Nouvelle copie en brouillon ; ajoutez son justificatif avant de la soumettre",
+    "Nueva copia como borrador; añade su comprobante antes de enviarla"
+  ],
+  "بداية السجلات": [
+    "Start of records",
+    "Début des enregistrements",
+    "Inicio de los registros"
+  ],
+  "عهدة مفتوحة تحتاج متابعة": [
+    "Open advance needs follow-up",
+    "Avance ouverte nécessitant un suivi",
+    "Anticipo abierto que requiere seguimiento"
+  ],
+  "مسودة تحتاج إثباتًا وإرسالًا": [
+    "Draft needs evidence and submission",
+    "Brouillon nécessitant un justificatif et une soumission",
+    "Borrador que requiere comprobante y envío"
+  ],
+  "المشروع": [
+    "Project",
+    "Projet",
+    "Proyecto"
+  ],
+  "الملخص": [
+    "Summary",
+    "Résumé",
+    "Resumen"
+  ],
+  "التقرير": [
+    "Report",
+    "Rapport",
+    "Informe"
+  ],
+  "القيمة": [
+    "Value",
+    "Valeur",
+    "Valor"
+  ],
+  "رصيد بداية الفترة": [
+    "Opening balance for the period",
+    "Solde d’ouverture de la période",
+    "Saldo inicial del período"
+  ],
+  "صافي حركة الفترة": [
+    "Net movement for the period",
+    "Mouvement net de la période",
+    "Movimiento neto del período"
+  ],
+  "رصيد نهاية الفترة": [
+    "Closing balance for the period",
+    "Solde de clôture de la période",
+    "Saldo final del período"
+  ],
+  "الحركات": [
+    "Transactions",
+    "Opérations",
+    "Movimientos"
+  ],
+  "الحركة": [
+    "Transaction",
+    "Opération",
+    "Movimiento"
+  ],
+  "المرفقات": [
+    "Attachments",
+    "Pièces jointes",
+    "Adjuntos"
+  ],
+  "العهد": [
+    "Advances",
+    "Avances",
+    "Anticipos"
+  ],
+  "رصيد البداية": [
+    "Opening balance",
+    "Solde d’ouverture",
+    "Saldo inicial"
+  ],
+  "حركة الفترة": [
+    "Period movement",
+    "Mouvement de la période",
+    "Movimiento del período"
+  ],
+  "رصيد النهاية": [
+    "Closing balance",
+    "Solde de clôture",
+    "Saldo final"
+  ],
+  "المتاح الآن": [
+    "Available now",
+    "Disponible actuellement",
+    "Disponible ahora"
+  ],
+  "المصروف خلال الفترة": [
+    "Expenses during the period",
+    "Dépenses de la période",
+    "Gastos durante el período"
+  ],
+  "المشاريع": [
+    "Projects",
+    "Projets",
+    "Proyectos"
+  ],
+  "الميزانية الكاملة": [
+    "Full budget",
+    "Budget total",
+    "Presupuesto total"
+  ],
+  "مصروف الفترة": [
+    "Period expenses",
+    "Dépenses de la période",
+    "Gastos del período"
+  ],
+  "المصروف الكلي": [
+    "Overall expenses",
+    "Dépenses totales",
+    "Gastos totales"
+  ],
+  "المتبقي من الميزانية": [
+    "Remaining budget",
+    "Budget restant",
+    "Presupuesto restante"
+  ],
+  "إرشاد هذه العهدة خطوة بخطوة": [
+    "Step-by-step guidance for this advance",
+    "Guide étape par étape pour cette avance",
+    "Guía paso a paso para este anticipo"
+  ],
+  "أكد التسليم والاستلام أولًا": [
+    "Confirm handover and receipt first",
+    "Confirmez d’abord la remise et la réception",
+    "Primero confirma entrega y recepción"
+  ],
+  "الاستلام مكتمل": [
+    "Receipt complete",
+    "Réception terminée",
+    "Recepción completada"
+  ],
+  "سجل المصروفات من هذه العهدة، ثم أرسلها للمراجعة": [
+    "Record expenses against this advance, then submit them for review",
+    "Enregistrez les dépenses sur cette avance, puis soumettez-les à vérification",
+    "Registra gastos con cargo a este anticipo y envíalos a revisión"
+  ],
+  "تابع التصحيح والاعتماد؛ يمكنك متابعة الصرف أثناء التسوية الجزئية": [
+    "Follow up on corrections and approval; you can continue spending during partial settlement",
+    "Suivez les corrections et l’approbation ; vous pouvez continuer à dépenser pendant la régularisation partielle",
+    "Haz seguimiento de las correcciones y la aprobación; puedes seguir gastando durante la liquidación parcial"
+  ],
+  "رد المتبقي كاملًا أو جزئيًا عند الحاجة": [
+    "Return the remaining amount in full or in part when needed",
+    "Restituez le montant restant en totalité ou en partie si nécessaire",
+    "Devuelve el importe restante total o parcialmente cuando sea necesario"
+  ],
+  "أقفل بعد وصول الرصيد للصفر وحسم العمليات": [
+    "Close once the balance reaches zero and all transactions are resolved",
+    "Clôturez lorsque le solde atteint zéro et que toutes les opérations sont réglées",
+    "Cierra cuando el saldo llegue a cero y todos los movimientos estén resueltos"
+  ],
+  "الانتقال للإجراء المتاح": [
+    "Go to available action",
+    "Accéder à l’action disponible",
+    "Ir a la acción disponible"
+  ],
+  "تسليم مسؤول العهدة:": [
+    "Advance holder handover:",
+    "Remise par le responsable de l’avance :",
+    "Entrega del responsable del anticipo:"
+  ],
+  "· استلام الموظف:": [
+    "· Employee receipt:",
+    "· Réception par l’employé :",
+    "· Recepción del empleado:"
+  ],
+  "التسويات الجزئية": [
+    "Partial settlements",
+    "Régularisations partielles",
+    "Liquidaciones parciales"
+  ],
+  "تسوية مصروفات معتمدة": [
+    "Settle approved expenses",
+    "Régulariser les dépenses approuvées",
+    "Liquidar gastos aprobados"
+  ],
+  "توثيق مجموعة مصروفات معتمدة؛ العهدة تظل مفتوحة والرصيد لا يتغير.": [
+    "Document a group of approved expenses; the advance stays open and the balance is unchanged.",
+    "Documentez un groupe de dépenses approuvées ; l’avance reste ouverte et le solde ne change pas.",
+    "Documenta un grupo de gastos aprobados; el anticipo sigue abierto y el saldo no cambia."
+  ],
+  "اعتماد التسوية الجزئية": [
+    "Approve partial settlement",
+    "Approuver la régularisation partielle",
+    "Aprobar liquidación parcial"
+  ],
+  "إعادة التسوية الجزئية بسبب": [
+    "Return partial settlement with a reason",
+    "Renvoyer la régularisation partielle avec un motif",
+    "Devolver liquidación parcial con un motivo"
+  ],
+  "إلغاء التسوية الجزئية بسبب": [
+    "Cancel partial settlement with a reason",
+    "Annuler la régularisation partielle avec un motif",
+    "Cancelar liquidación parcial con un motivo"
+  ],
+  "إلغاء التسوية بسبب": [
+    "Cancel settlement with a reason",
+    "Annuler la régularisation avec un motif",
+    "Cancelar liquidación con un motivo"
+  ],
+  "ملاحظات العهدة": [
+    "Advance notes",
+    "Notes sur l’avance",
+    "Notas del anticipo"
+  ],
+  "ملاحظة على العهدة": [
+    "Note on the advance",
+    "Note sur l’avance",
+    "Nota sobre el anticipo"
+  ],
+  "الاستفسار / الملاحظة": [
+    "Question / note",
+    "Question / note",
+    "Consulta / nota"
+  ],
+  "نسخ كمصروف جديد": [
+    "Copy as a new expense",
+    "Copier comme nouvelle dépense",
+    "Copiar como nuevo gasto"
+  ],
+  "فتح صفحة العهدة": [
+    "Open advance page",
+    "Ouvrir la page de l’avance",
+    "Abrir página del anticipo"
+  ],
+  "صفحة العهدة": [
+    "Advance page",
+    "Page de l’avance",
+    "Página del anticipo"
+  ],
+  "بحث في النظام": [
+    "Search the system",
+    "Rechercher dans le système",
+    "Buscar en el sistema"
+  ],
+  "بحث في العهد والمصروفات والمرتجعات": [
+    "Search advances, expenses and returns",
+    "Rechercher dans les avances, dépenses et restitutions",
+    "Buscar anticipos, gastos y devoluciones"
+  ],
+  "اسم أو مرجع أو وصف…": [
+    "Name, reference or description…",
+    "Nom, référence ou description…",
+    "Nombre, referencia o descripción…"
+  ],
+  "لا توجد نتائج": [
+    "No results",
+    "Aucun résultat",
+    "Sin resultados"
+  ],
+  "إغلاق البحث": [
+    "Close search",
+    "Fermer la recherche",
+    "Cerrar búsqueda"
+  ],
+  "العهدة غير متاحة أو غير موجودة": [
+    "Advance unavailable or not found",
+    "Avance indisponible ou introuvable",
+    "Anticipo no disponible o no encontrado"
+  ],
+  "المتابعة": [
+    "Follow-up",
+    "Suivi",
+    "Seguimiento"
+  ],
+  "تنبيه يحتاج انتباهًا": [
+    "Alert needs attention",
+    "Alerte nécessitant une attention",
+    "Alerta que requiere atención"
+  ],
+  "عرض التنبيهات": [
+    "View alerts",
+    "Voir les alertes",
+    "Ver alertas"
+  ],
+  "عرض الرسوم والتحليل": [
+    "View charts and analysis",
+    "Voir les graphiques et l’analyse",
+    "Ver gráficos y análisis"
+  ],
+  "تنبيهات المتابعة": [
+    "Follow-up alerts",
+    "Alertes de suivi",
+    "Alertas de seguimiento"
+  ],
+  "لا توجد تنبيهات": [
+    "No alerts",
+    "Aucune alerte",
+    "Sin alertas"
+  ],
+  "الميزانية للمهمة؛ كل عهدة وتوزيع مرتبطان بها. تجاوز الميزانية يظهر تنبيهًا.": [
+    "The budget belongs to the task; every advance and allocation is linked to it. Exceeding the budget triggers an alert.",
+    "Le budget est celui de la mission ; chaque avance et répartition y est liée. Un dépassement du budget déclenche une alerte.",
+    "El presupuesto corresponde a la tarea; cada anticipo y asignación está vinculado a ella. Superar el presupuesto genera una alerta."
+  ],
+  "مهمة جديدة": [
+    "New task",
+    "Nouvelle mission",
+    "Nueva tarea"
+  ],
+  "الميزانية": [
+    "Budget",
+    "Budget",
+    "Presupuesto"
+  ],
+  "نشطة": [
+    "Active",
+    "Active",
+    "Activa"
+  ],
+  "مؤرشفة": [
+    "Archived",
+    "Archivée",
+    "Archivada"
+  ],
+  "غير محددة": [
+    "Unspecified",
+    "Non définie",
+    "Sin especificar"
+  ],
+  "كشف المهمة": [
+    "Task statement",
+    "Relevé de la mission",
+    "Estado de la tarea"
+  ],
+  "أرشفة": [
+    "Archive",
+    "Archiver",
+    "Archivar"
+  ],
+  "العهد المرتبطة": [
+    "Linked advances",
+    "Avances liées",
+    "Anticipos vinculados"
+  ],
+  "عرض العهد المقفولة والملغاة": [
+    "Show closed and cancelled advances",
+    "Afficher les avances clôturées et annulées",
+    "Mostrar anticipos cerrados y cancelados"
+  ],
+  "تنزيل تقرير Excel كامل": [
+    "Download full Excel report",
+    "Télécharger le rapport Excel complet",
+    "Descargar informe Excel completo"
+  ],
+  "تصدير الحركات CSV": [
+    "Export transactions as CSV",
+    "Exporter les opérations en CSV",
+    "Exportar movimientos en CSV"
+  ],
+  "الفترة:": [
+    "Period:",
+    "Période :",
+    "Período:"
+  ],
+  "اليوم": [
+    "Today",
+    "Aujourd’hui",
+    "Hoy"
+  ],
+  "هذا الأسبوع": [
+    "This week",
+    "Cette semaine",
+    "Esta semana"
+  ],
+  "هذا الشهر": [
+    "This month",
+    "Ce mois-ci",
+    "Este mes"
+  ],
+  "الشهر السابق": [
+    "Previous month",
+    "Mois précédent",
+    "Mes anterior"
+  ],
+  "حفظ عرض التقرير": [
+    "Save report view",
+    "Enregistrer la vue du rapport",
+    "Guardar vista del informe"
+  ],
+  "اسم العرض": [
+    "View name",
+    "Nom de la vue",
+    "Nombre de la vista"
+  ],
+  "حفظ العرض": [
+    "Save view",
+    "Enregistrer la vue",
+    "Guardar vista"
+  ],
+  "حذف عرض التقرير": [
+    "Delete report view",
+    "Supprimer la vue du rapport",
+    "Eliminar vista del informe"
+  ],
+  "حذف عرض التقرير المحفوظ": [
+    "Delete saved report view",
+    "Supprimer la vue enregistrée du rapport",
+    "Eliminar vista guardada del informe"
+  ],
+  "أرصدة الفترة حسب الشخص والعهدة والمشروع، بالقيم المصححة الحالية. فلاتر البند والحالة والنوع تخص تفاصيل الحركات.": [
+    "Period balances by person, advance and project, using current corrected values. Category, status and type filters apply to transaction details.",
+    "Soldes de la période par personne, avance et projet, selon les valeurs corrigées actuelles. Les filtres de catégorie, statut et type s’appliquent aux détails des opérations.",
+    "Saldos del período por persona, anticipo y proyecto, con los valores corregidos actuales. Los filtros de categoría, estado y tipo se aplican a los detalles de los movimientos."
+  ],
+  "ملخص الحركات المفلترة": [
+    "Filtered transaction summary",
+    "Résumé des opérations filtrées",
+    "Resumen de movimientos filtrados"
+  ],
+  "قواعد المراجعة والتنبيهات": [
+    "Review and alert rules",
+    "Règles de vérification et d’alerte",
+    "Reglas de revisión y alertas"
+  ],
+  "مسار المصروفات الجديدة": [
+    "Review path for new expenses",
+    "Circuit de vérification des nouvelles dépenses",
+    "Ruta de revisión de nuevos gastos"
+  ],
+  "مسؤول العهدة ثم المالية": [
+    "Advance holder, then Finance",
+    "Responsable de l’avance, puis finances",
+    "Responsable del anticipo y luego Finanzas"
+  ],
+  "مراجعة مدير إضافية ابتداءً من — اختياري": [
+    "Additional manager review starting at — optional",
+    "Vérification supplémentaire du responsable à partir de — facultatif",
+    "Revisión adicional del supervisor a partir de — opcional"
+  ],
+  "تنبيه العهدة المفتوحة بعد عدد أيام": [
+    "Open advance alert after this many days",
+    "Alerte d’avance ouverte après ce nombre de jours",
+    "Alerta de anticipo abierto tras este número de días"
+  ],
+  "تعديل القواعد": [
+    "Edit rules",
+    "Modifier les règles",
+    "Editar reglas"
+  ],
+  "التغييرات تطبق عند الإرسال الجديد أو إعادة التصحيح. المصروفات المعلقة تحتفظ بمسارها. الاعتماد النهائي للمالية.": [
+    "Changes apply to new submissions or resubmissions after correction. Pending expenses retain their review path. Finance grants final approval.",
+    "Les changements s’appliquent aux nouvelles soumissions ou aux renvois après correction. Les dépenses en attente conservent leur circuit de vérification. Les finances donnent l’approbation finale.",
+    "Los cambios se aplican a nuevos envíos o reenvíos tras una corrección. Los gastos pendientes conservan su ruta de revisión. Finanzas otorga la aprobación final."
+  ],
+  "تم حفظ المسودة والإثبات. الخطوة التالية: إرسال للمراجعة.": [
+    "Draft and evidence saved. Next step: submit for review.",
+    "Brouillon et justificatif enregistrés. Étape suivante : soumettre à vérification.",
+    "Borrador y comprobante guardados. Siguiente paso: enviar a revisión."
+  ],
+  "التقط صورة": [
+    "Take a photo",
+    "Prendre une photo",
+    "Tomar una foto"
+  ],
+  "ارفع ملفًا أو صورة": [
+    "Upload a file or image",
+    "Importer un fichier ou une image",
+    "Subir un archivo o una imagen"
+  ],
+  "إزالة ملف قبل الرفع": [
+    "Remove file before upload",
+    "Retirer le fichier avant l’importation",
+    "Eliminar archivo antes de subirlo"
+  ],
+  "مسح الحقول غير المحفوظة؟": [
+    "Clear unsaved fields?",
+    "Effacer les champs non enregistrés ?",
+    "¿Borrar los campos sin guardar?"
+  ],
+  "مسح الحقول": [
+    "Clear fields",
+    "Effacer les champs",
+    "Borrar campos"
+  ],
+  "موظف": [
+    "Employee",
+    "Employé",
+    "Empleado"
+  ],
+  "مسؤول عهدة": [
+    "Advance holder",
+    "Responsable d’avance",
+    "Responsable del anticipo"
+  ],
+  "مدير / مراجع": [
+    "Manager / reviewer",
+    "Responsable / vérificateur",
+    "Supervisor / revisor"
+  ],
+  "مدير مالي / محاسب": [
+    "Finance manager / accountant",
+    "Responsable financier / comptable",
+    "Responsable financiero / contable"
+  ],
+  "مسؤول النظام": [
+    "System administrator",
+    "Administrateur système",
+    "Administrador del sistema"
+  ],
+  "تحويل بنكي منفّذ": [
+    "Completed bank transfer",
+    "Virement bancaire effectué",
+    "Transferencia bancaria realizada"
+  ],
+  "محفظة إلكترونية — تحويل منفّذ": [
+    "E-wallet — completed transfer",
+    "Portefeuille électronique — transfert effectué",
+    "Billetera electrónica — transferencia realizada"
+  ],
+  "٠١٢٣٤٥٦٧٨٩": [
+    "٠١٢٣٤٥٦٧٨٩",
+    "٠١٢٣٤٥٦٧٨٩",
+    "٠١٢٣٤٥٦٧٨٩"
+  ],
+  "٫": [
+    "٫",
+    "٫",
+    "٫"
+  ],
+  "اكتب مبلغًا موجبًا بمنزلتين عشريتين كحد أقصى": [
+    "Enter a positive amount with no more than two decimal places",
+    "Saisissez un montant positif avec au maximum deux décimales",
+    "Introduce un importe positivo con un máximo de dos decimales"
+  ],
+  "المبلغ غير صالح أو يتجاوز دقة الحساب": [
+    "Amount is invalid or exceeds calculation precision",
+    "Montant invalide ou dépassant la précision du calcul",
+    "El importe no es válido o supera la precisión del cálculo"
+  ],
+  "التاريخ غير صالح أو في المستقبل": [
+    "Date is invalid or in the future",
+    "Date invalide ou future",
+    "La fecha no es válida o es futura"
+  ],
+  "هذا الحقل مطلوب": [
+    "This field is required",
+    "Ce champ est obligatoire",
+    "Este campo es obligatorio"
+  ],
+  "مساحة عُهدة": [
+    "Uhda workspace",
+    "Espace Uhda",
+    "Espacio Uhda"
+  ],
+  "انتقالات": [
+    "Transport",
+    "Transport",
+    "Transporte"
+  ],
+  "وقود": [
+    "Fuel",
+    "Carburant",
+    "Combustible"
+  ],
+  "أكل وشرب": [
+    "Food and drinks",
+    "Repas et boissons",
+    "Comida y bebida"
+  ],
+  "تحميل وتنزيل": [
+    "Loading and unloading",
+    "Chargement et déchargement",
+    "Carga y descarga"
+  ],
+  "مشتريات": [
+    "Purchases",
+    "Achats",
+    "Compras"
+  ],
+  "اتصالات": [
+    "Communications",
+    "Communications",
+    "Comunicaciones"
+  ],
+  "أخرى": [
+    "Other",
+    "Autre",
+    "Otros"
+  ],
+  "أحمد — مسؤول عهدة تجريبي": [
+    "Ahmad — demo advance holder",
+    "Ahmad — responsable d’avance de démonstration",
+    "Ahmad — responsable de anticipo de demostración"
+  ],
+  "التشغيل": [
+    "Operations",
+    "Opérations",
+    "Operaciones"
+  ],
+  "سارة — موظفة تجريبية": [
+    "Sara — demo employee",
+    "Sara — employée de démonstration",
+    "Sara — empleada de demostración"
+  ],
+  "المبيعات": [
+    "Sales",
+    "Ventes",
+    "Ventas"
+  ],
+  "محمد — مدير تجريبي": [
+    "Mohamed — demo manager",
+    "Mohamed — responsable de démonstration",
+    "Mohamed — supervisor de demostración"
+  ],
+  "الإدارة": [
+    "Administration",
+    "Administration",
+    "Administración"
+  ],
+  "مثال جاهز — مهمة زيارات العملاء": [
+    "Ready-made example — customer visit task",
+    "Exemple prêt à l’emploi — mission de visites clients",
+    "Ejemplo listo — tarea de visitas a clientes"
+  ],
+  "مصاريف انتقالات المهمة": [
+    "Task travel expenses",
+    "Frais de déplacement de la mission",
+    "Gastos de desplazamiento de la tarea"
+  ],
+  "مثال جاهز — انتقالات": [
+    "Ready-made example — travel",
+    "Exemple prêt à l’emploi — déplacements",
+    "Ejemplo listo — desplazamientos"
+  ],
+  "إثبات كتابي تجريبي": [
+    "Demo written evidence",
+    "Justificatif écrit de démonstration",
+    "Comprobante escrito de demostración"
+  ],
+  "إعداد المثال المختار": [
+    "Set up selected example",
+    "Configurer l’exemple sélectionné",
+    "Configurar ejemplo seleccionado"
+  ],
+  "عهدة 1000، توزيع 400، مصروف 200 — مثال مختار": [
+    "Advance 1000, allocation 400, expense 200 — selected example",
+    "Avance 1000, répartition 400, dépense 200 — exemple sélectionné",
+    "Anticipo 1000, asignación 400, gasto 200 — ejemplo seleccionado"
+  ],
+  "تسوية الرصيد المتبقي بالمصروف أو الرد": [
+    "Clear the remaining balance through expenses or returns",
+    "Solder le solde restant par des dépenses ou des restitutions",
+    "Saldar el saldo restante mediante gastos o devoluciones"
+  ],
+  "اعتماد المصروفات وحسم المسودات والتصحيح": [
+    "Approve expenses and resolve drafts and corrections",
+    "Approuver les dépenses et traiter les brouillons et corrections",
+    "Aprobar los gastos y resolver los borradores y las correcciones"
+  ],
+  "تأكيد المرتجعات المعلقة": [
+    "Confirm pending returns",
+    "Confirmer les restitutions en attente",
+    "Confirmar devoluciones pendientes"
+  ],
+  "إقفال عهد الموظفين التابعة": [
+    "Close linked employee advances",
+    "Clôturer les avances liées des employés",
+    "Cerrar los anticipos vinculados de los empleados"
+  ],
+  "حسم التسويات الجزئية المعلقة": [
+    "Resolve pending partial settlements",
+    "Traiter les régularisations partielles en attente",
+    "Resolver las liquidaciones parciales pendientes"
+  ],
+  "رقم العملية مفقود": [
+    "Transaction ID is missing",
+    "L’identifiant de l’opération est manquant",
+    "Falta el identificador del movimiento"
+  ],
+  "الدور غير صالح": [
+    "Invalid role",
+    "Rôle invalide",
+    "Rol no válido"
+  ],
+  "الإجراء غير متاح للدور الحالي": [
+    "This action is unavailable for the current role",
+    "Cette action n’est pas disponible pour le rôle actuel",
+    "Esta acción no está disponible para el rol actual"
+  ],
+  "هذه العهدة تخص شخصًا آخر": [
+    "This advance belongs to another person",
+    "Cette avance appartient à une autre personne",
+    "Este anticipo pertenece a otra persona"
+  ],
+  "السجل غير موجود": [
+    "Record not found",
+    "Enregistrement introuvable",
+    "Registro no encontrado"
+  ],
+  "اختر عهدة مستلمة ومفتوحة للصرف": [
+    "Select a received advance that is open for spending",
+    "Sélectionnez une avance reçue et ouverte aux dépenses",
+    "Seleccione un anticipo recibido y abierto para gastos"
+  ],
+  "العهدة ليست بانتظار الاستلام": [
+    "The advance is not awaiting receipt",
+    "L’avance n’est pas en attente de réception",
+    "El anticipo no está pendiente de recepción"
+  ],
+  "المدير غير موجود": [
+    "Manager not found",
+    "Responsable introuvable",
+    "Responsable no encontrado"
+  ],
+  "غير نشط": [
+    "Inactive",
+    "Inactif",
+    "Inactivo"
+  ],
+  "اسم البند موجود بالفعل": [
+    "This category name already exists",
+    "Ce nom de catégorie existe déjà",
+    "Este nombre de categoría ya existe"
+  ],
+  "التوزيع من العهدة الأساسية فقط": [
+    "Funds can only be allocated from the primary advance",
+    "Les fonds ne peuvent être répartis que depuis l’avance principale",
+    "Solo se pueden asignar fondos desde el anticipo principal"
+  ],
+  "أنت لست مسؤول هذه العهدة": [
+    "You are not the manager of this advance",
+    "Vous n’êtes pas responsable de cette avance",
+    "No es el responsable de este anticipo"
+  ],
+  "اختر شخصًا نشطًا": [
+    "Select an active person",
+    "Sélectionnez une personne active",
+    "Seleccione una persona activa"
+  ],
+  "اختر موظفًا آخر للتوزيع": [
+    "Select another employee for the allocation",
+    "Sélectionnez un autre employé pour la répartition",
+    "Seleccione otro empleado para la asignación"
+  ],
+  "اختر مهمة نشطة": [
+    "Select an active task",
+    "Sélectionnez une mission active",
+    "Seleccione una tarea activa"
+  ],
+  "مبلغ التوزيع يتجاوز المتاح لدى مسؤول العهدة": [
+    "The allocation exceeds the advance manager’s available balance",
+    "Le montant réparti dépasse le solde disponible du responsable de l’avance",
+    "La asignación supera el saldo disponible del responsable del anticipo"
+  ],
+  "مبلغ محجوز بانتظار التسليم والاستلام": [
+    "Funds reserved pending handover and receipt",
+    "Montant réservé en attente de remise et de réception",
+    "Fondos reservados pendientes de entrega y recepción"
+  ],
+  "تحويل منفّذ؛ المبلغ في عهدة المستلم دون خصم مصروف": [
+    "Transfer completed; funds are held by the recipient with no expense deduction",
+    "Virement effectué ; les fonds sont détenus par le bénéficiaire sans déduction de dépense",
+    "Transferencia realizada; los fondos están en poder del destinatario sin descontar ningún gasto"
+  ],
+  "تسليم العهدة لمسؤول مصدرها فقط": [
+    "Only the source advance manager can confirm handover",
+    "Seul le responsable de l’avance source peut confirmer la remise",
+    "Solo el responsable del anticipo de origen puede confirmar la entrega"
+  ],
+  "لا يمكن التسليم": [
+    "Handover cannot be confirmed",
+    "La remise ne peut pas être confirmée",
+    "No se puede confirmar la entrega"
+  ],
+  "تم تأكيد التسليم؛ يلزم تأكيد الموظف أيضًا": [
+    "Handover confirmed; the employee must also confirm receipt",
+    "Remise confirmée ; l’employé doit aussi confirmer la réception",
+    "Entrega confirmada; el empleado también debe confirmar la recepción"
+  ],
+  "لا يمكن تأكيد هذه العهدة": [
+    "This advance cannot be confirmed",
+    "Cette avance ne peut pas être confirmée",
+    "No se puede confirmar este anticipo"
+  ],
+  "الاستلام مؤكد — أصبح المبلغ متاحًا": [
+    "Receipt confirmed — funds are now available",
+    "Réception confirmée — les fonds sont désormais disponibles",
+    "Recepción confirmada — los fondos ya están disponibles"
+  ],
+  "الاستلام مسجل؛ في انتظار تأكيد مسؤول العهدة للتسليم": [
+    "Receipt recorded; awaiting handover confirmation from the advance manager",
+    "Réception enregistrée ; en attente de confirmation de remise par le responsable de l’avance",
+    "Recepción registrada; pendiente de confirmación de entrega por el responsable del anticipo"
+  ],
+  "المصروف غير قابل للتعديل": [
+    "This expense cannot be edited",
+    "Cette dépense ne peut pas être modifiée",
+    "Este gasto no se puede editar"
+  ],
+  "لا يمكن نقل مصروف مرسل لعهدة أخرى": [
+    "A submitted expense cannot be moved to another advance",
+    "Une dépense envoyée ne peut pas être transférée vers une autre avance",
+    "No se puede trasladar un gasto enviado a otro anticipo"
+  ],
+  "البند موجود لكنه معطل؛ اطلب تفعيله": [
+    "The category exists but is disabled; request activation",
+    "La catégorie existe mais est désactivée ; demandez son activation",
+    "La categoría existe, pero está desactivada; solicite su activación"
+  ],
+  "اختر بندًا أو أضف بندًا جديدًا": [
+    "Select a category or add a new one",
+    "Sélectionnez une catégorie ou ajoutez-en une",
+    "Seleccione una categoría o añada una nueva"
+  ],
+  "مسودة محفوظة؛ البند مضاف تلقائيًا إن كان جديدًا؛ الرصيد لم يتغير": [
+    "Draft saved; a new category is added automatically; the balance is unchanged",
+    "Brouillon enregistré ; toute nouvelle catégorie est ajoutée automatiquement ; le solde est inchangé",
+    "Borrador guardado; si la categoría es nueva, se añade automáticamente; el saldo no cambia"
+  ],
+  "الحالة غير صالحة للإرسال": [
+    "This status does not allow submission",
+    "Ce statut ne permet pas l’envoi",
+    "Este estado no permite el envío"
+  ],
+  "أضف إثباتًا كتابيًا أو صورة أو ملفًا قبل الإرسال": [
+    "Add written evidence, an image, or a file before submitting",
+    "Ajoutez un justificatif écrit, une image ou un fichier avant l’envoi",
+    "Añada un comprobante escrito, una imagen o un archivo antes de enviar"
+  ],
+  "المبلغ يتجاوز المتاح في هذه العهدة": [
+    "The amount exceeds the available balance in this advance",
+    "Le montant dépasse le solde disponible de cette avance",
+    "El importe supera el saldo disponible de este anticipo"
+  ],
+  "إرسال": [
+    "Submit",
+    "Envoyer",
+    "Enviar"
+  ],
+  "عين مديرًا نشطًا لهذا الشخص للمراجعة الإضافية": [
+    "Assign an active manager to this person for the additional review",
+    "Attribuez un responsable actif à cette personne pour la vérification supplémentaire",
+    "Asigne un responsable activo a esta persona para la revisión adicional"
+  ],
+  "المراجعة غير متاحة لك أو هذه العهدة ليست ضمن مسؤوليتك": [
+    "You cannot review this expense, or this advance is outside your responsibility",
+    "Vous ne pouvez pas vérifier cette dépense, ou cette avance ne relève pas de votre responsabilité",
+    "No puede revisar este gasto o el anticipo no está bajo su responsabilidad"
+  ],
+  "المصروف ليس بانتظار المراجعة": [
+    "The expense is not awaiting review",
+    "La dépense n’est pas en attente de vérification",
+    "El gasto no está pendiente de revisión"
+  ],
+  "اعتماد مالي دون خصم": [
+    "Finance approval with no deduction",
+    "Approbation financière sans déduction",
+    "Aprobación de Finanzas sin descuento"
+  ],
+  "مراجعة مسؤول العهدة — بانتظار المالية": [
+    "Advance manager review — awaiting Finance",
+    "Vérification du responsable de l’avance — en attente de la finance",
+    "Revisión del responsable del anticipo — pendiente de Finanzas"
+  ],
+  "اعتماد مالي نهائي؛ بلا خصم إضافي": [
+    "Final Finance approval; no additional deduction",
+    "Approbation financière définitive ; aucune déduction supplémentaire",
+    "Aprobación final de Finanzas; sin descuento adicional"
+  ],
+  "راجعه المسؤول؛ بانتظار اعتماد المالية": [
+    "Reviewed by the manager; awaiting Finance approval",
+    "Vérifiée par le responsable ; en attente d’approbation financière",
+    "Revisado por el responsable; pendiente de aprobación de Finanzas"
+  ],
+  "الحذف للمسودة قبل أول إرسال فقط": [
+    "Only drafts that have never been submitted can be deleted",
+    "Seuls les brouillons jamais envoyés peuvent être supprimés",
+    "Solo se pueden eliminar borradores que nunca se hayan enviado"
+  ],
+  "حذف مسودة غير مالية": [
+    "Delete draft with no financial impact",
+    "Supprimer un brouillon sans impact financier",
+    "Eliminar borrador sin efecto financiero"
+  ],
+  "المرتجع يتجاوز المتاح في هذه العهدة": [
+    "The return exceeds the available balance in this advance",
+    "La restitution dépasse le solde disponible de cette avance",
+    "La devolución supera el saldo disponible de este anticipo"
+  ],
+  "طلب رد لمسؤول العهدة؛ بلا إقفال للتسوية": [
+    "Return requested to the advance manager; settlement remains open",
+    "Restitution demandée au responsable de l’avance ; la régularisation reste ouverte",
+    "Devolución solicitada al responsable del anticipo; la liquidación sigue abierta"
+  ],
+  "طلب رد للمالية؛ الرصيد يتغير بعد تأكيد الاستلام": [
+    "Return requested to Finance; the balance changes after receipt is confirmed",
+    "Restitution demandée à la finance ; le solde change après confirmation de réception",
+    "Devolución solicitada a Finanzas; el saldo cambia tras confirmar la recepción"
+  ],
+  "المرتجع غير معلق": [
+    "The return is not pending",
+    "La restitution n’est pas en attente",
+    "La devolución no está pendiente"
+  ],
+  "تأكيد الرد لمسؤول العهدة المستلم فقط": [
+    "Only the receiving advance manager can confirm this return",
+    "Seul le responsable de l’avance destinataire peut confirmer cette restitution",
+    "Solo el responsable del anticipo destinatario puede confirmar esta devolución"
+  ],
+  "تأكيد الرد للمالية فقط": [
+    "Only Finance can confirm this return",
+    "Seule la finance peut confirmer cette restitution",
+    "Solo Finanzas puede confirmar esta devolución"
+  ],
+  "رصيد غير كاف": [
+    "Insufficient balance",
+    "Solde insuffisant",
+    "Saldo insuficiente"
+  ],
+  "رد داخلي مؤكد؛ زاد رصيد مسؤول العهدة بنفس المبلغ": [
+    "Internal return confirmed; the advance manager’s balance increased by the same amount",
+    "Restitution interne confirmée ; le solde du responsable de l’avance a augmenté du même montant",
+    "Devolución interna confirmada; el saldo del responsable del anticipo aumentó en el mismo importe"
+  ],
+  "رد مؤكد للمالية؛ العهدة ما زالت مفتوحة حتى التسوية": [
+    "Return to Finance confirmed; the advance remains open until settlement",
+    "Restitution à la finance confirmée ; l’avance reste ouverte jusqu’à sa régularisation",
+    "Devolución a Finanzas confirmada; el anticipo sigue abierto hasta su liquidación"
+  ],
+  "المرتجع ليس ضمن مسؤوليتك": [
+    "This return is outside your responsibility",
+    "Cette restitution ne relève pas de votre responsabilité",
+    "Esta devolución no está bajo su responsabilidad"
+  ],
+  "الطلب ليس معلقًا": [
+    "The request is not pending",
+    "La demande n’est pas en attente",
+    "La solicitud no está pendiente"
+  ],
+  "،": [
+    ",",
+    ",",
+    ","
+  ],
+  "طلب تسوية مستقل عن رد المال؛ بانتظار المالية": [
+    "Settlement requested separately from returning funds; awaiting Finance",
+    "Régularisation demandée indépendamment de la restitution des fonds ; en attente de la finance",
+    "Liquidación solicitada por separado de la devolución de fondos; pendiente de Finanzas"
+  ],
+  "العهدة ليست مقدمة للتسوية": [
+    "The advance has not been submitted for settlement",
+    "L’avance n’a pas été présentée pour régularisation",
+    "El anticipo no se ha presentado para liquidación"
+  ],
+  "سحب طلب التسوية وإتاحة الصرف والرد:": [
+    "Withdraw settlement request and reopen spending and returns:",
+    "Retirer la demande de régularisation et réautoriser dépenses et restitutions :",
+    "Retirar solicitud de liquidación y habilitar gastos y devoluciones:"
+  ],
+  "إقفال التسوية؛ بلا أثر مالي جديد": [
+    "Close settlement; no new financial impact",
+    "Clôturer la régularisation ; aucun nouvel impact financier",
+    "Cerrar liquidación; sin nuevo efecto financiero"
+  ],
+  "العهدة مغلقة؛ لا تعديل مالي": [
+    "The advance is closed; financial changes are not allowed",
+    "L’avance est clôturée ; aucune modification financière autorisée",
+    "El anticipo está cerrado; no se permiten cambios financieros"
+  ],
+  "اسحب طلب التسوية بسبب أولًا قبل عكس حركة": [
+    "Withdraw the settlement request with a reason before reversing a transaction",
+    "Retirez la demande de régularisation en indiquant un motif avant d’annuler une opération",
+    "Retire la solicitud de liquidación indicando un motivo antes de revertir un movimiento"
+  ],
+  "تم العكس بالفعل": [
+    "Already reversed",
+    "Déjà annulée",
+    "Ya revertido"
+  ],
+  "ألغ التسوية الجزئية بسبب قبل عكس مصروفها": [
+    "Cancel the partial settlement with a reason before reversing its expense",
+    "Annulez la régularisation partielle en indiquant un motif avant d’annuler sa dépense",
+    "Cancele la liquidación parcial indicando un motivo antes de revertir su gasto"
+  ],
+  "احسم العمليات التابعة أولًا": [
+    "Resolve linked transactions first",
+    "Traitez d’abord les opérations liées",
+    "Resuelva primero los movimientos vinculados"
+  ],
+  "عكس المرتجع المؤكد فقط": [
+    "Only confirmed returns can be reversed",
+    "Seules les restitutions confirmées peuvent être annulées",
+    "Solo se pueden revertir devoluciones confirmadas"
+  ],
+  "العهدة المستلمة مغلقة": [
+    "The receiving advance is closed",
+    "L’avance destinataire est clôturée",
+    "El anticipo destinatario está cerrado"
+  ],
+  "المسودة ليست حركة مالية": [
+    "A draft is not a financial transaction",
+    "Un brouillon n’est pas une opération financière",
+    "Un borrador no es un movimiento financiero"
+  ],
+  "العكس يسبب رصيدًا غير صالح؛ قد يكون المال قد استُخدم": [
+    "Reversal would create an invalid balance; the funds may have been used",
+    "L’annulation créerait un solde invalide ; les fonds ont peut-être été utilisés",
+    "La reversión produciría un saldo no válido; es posible que los fondos se hayan utilizado"
+  ],
+  "مؤرشف": [
+    "Archived",
+    "Archivé",
+    "Archivado"
+  ],
+  "اختر مسار المراجعة": [
+    "Select a review workflow",
+    "Sélectionnez un circuit de vérification",
+    "Seleccione un circuito de revisión"
+  ],
+  "اختر مصروفًا معتمدًا للتسوية الجزئية": [
+    "Select an approved expense for partial settlement",
+    "Sélectionnez une dépense approuvée pour la régularisation partielle",
+    "Seleccione un gasto aprobado para liquidación parcial"
+  ],
+  "مصروف غير معتمد أو سبق تضمينه في تسوية": [
+    "The expense is unapproved or already included in a settlement",
+    "La dépense n’est pas approuvée ou figure déjà dans une régularisation",
+    "El gasto no está aprobado o ya está incluido en una liquidación"
+  ],
+  "تسوية جزئية مقدمة؛ العهدة مفتوحة والرصيد دون تغيير": [
+    "Partial settlement submitted; the advance remains open and the balance is unchanged",
+    "Régularisation partielle présentée ; l’avance reste ouverte et le solde est inchangé",
+    "Liquidación parcial presentada; el anticipo sigue abierto y el saldo no cambia"
+  ],
+  "التسوية ليست بانتظار الاعتماد": [
+    "The settlement is not awaiting approval",
+    "La régularisation n’est pas en attente d’approbation",
+    "La liquidación no está pendiente de aprobación"
+  ],
+  "تغير مصروف؛ أعد تقديم التسوية": [
+    "An expense changed; resubmit the settlement",
+    "Une dépense a changé ; présentez de nouveau la régularisation",
+    "Un gasto ha cambiado; vuelva a presentar la liquidación"
+  ],
+  "— بلا أثر مالي": [
+    "— no financial impact",
+    "— aucun impact financier",
+    "— sin efecto financiero"
+  ],
+  "العهدة غير متاحة لك": [
+    "This advance is unavailable to you",
+    "Cette avance ne vous est pas accessible",
+    "Este anticipo no está disponible para usted"
+  ],
+  "عرض تقرير محفوظ": [
+    "Saved report view",
+    "Vue de rapport enregistrée",
+    "Vista de informe guardada"
+  ],
+  "حذف عرض التقرير فقط": [
+    "Delete report view only",
+    "Supprimer uniquement la vue du rapport",
+    "Eliminar solo la vista del informe"
+  ],
+  "لا يوجد مصروف اليوم؛ بلا أثر مالي": [
+    "No expense today; no financial impact",
+    "Aucune dépense aujourd’hui ; aucun impact financier",
+    "Sin gastos hoy; sin efecto financiero"
+  ],
+  "نوع الملاحظة غير صالح": [
+    "Invalid note type",
+    "Type de note invalide",
+    "Tipo de nota no válido"
+  ],
+  "إعادة التهيئة للمالك فقط": [
+    "Only the owner can reset the workspace",
+    "Seul le propriétaire peut réinitialiser l’espace",
+    "Solo el propietario puede restablecer el espacio"
+  ],
+  "إعادة تهيئة": [
+    "إعادة تهيئة",
+    "إعادة تهيئة",
+    "إعادة تهيئة"
+  ],
+  "تهيئة المال والبنود مع حفظ الأشخاص والحسابات والأرشيف": [
+    "Reset finances and categories while preserving people, accounts, and archives",
+    "Réinitialiser les finances et catégories en conservant les personnes, comptes et archives",
+    "Restablecer finanzas y categorías conservando personas, cuentas y archivos"
+  ],
+  "الإجراء غير معروف": [
+    "Unknown action",
+    "Action inconnue",
+    "Acción desconocida"
+  ],
+  "رصيد غير صالح أو مبلغ يتجاوز دقة الحساب": [
+    "Invalid balance or amount exceeds calculation precision",
+    "Solde invalide ou montant dépassant la précision de calcul",
+    "Saldo no válido o importe que supera la precisión de cálculo"
+  ],
+  "إجمالي المبالغ يتجاوز دقة الحساب": [
+    "Total amount exceeds calculation precision",
+    "Le montant total dépasse la précision de calcul",
+    "El importe total supera la precisión de cálculo"
+  ],
+  "مصدر الطلب غير صالح": [
+    "Invalid request origin",
+    "Origine de la requête invalide",
+    "Origen de la solicitud no válido"
+  ],
+  "الطلب كبير جدًا": [
+    "Request is too large",
+    "La requête est trop volumineuse",
+    "La solicitud es demasiado grande"
+  ],
+  "اكتب اسم المستخدم وكلمة المرور": [
+    "Enter your username and password",
+    "Saisissez votre nom d’utilisateur et votre mot de passe",
+    "Introduzca su nombre de usuario y contraseña"
+  ],
+  "محاولات كثيرة؛ انتظر 15 دقيقة قبل المحاولة": [
+    "Too many attempts; wait 15 minutes before trying again",
+    "Trop de tentatives ; attendez 15 minutes avant de réessayer",
+    "Demasiados intentos; espere 15 minutos antes de volver a intentarlo"
+  ],
+  "إعداد حساب المالك غير مكتمل": [
+    "Owner account setup is incomplete",
+    "La configuration du compte propriétaire est incomplète",
+    "La configuración de la cuenta del propietario está incompleta"
+  ],
+  "مساحة المالك الرئيسية": [
+    "Main owner workspace",
+    "Espace principal du propriétaire",
+    "Espacio principal del propietario"
+  ],
+  "اسم المستخدم أو كلمة المرور غير صحيحة. يمكنك إظهار كلمة المرور للتأكد.": [
+    "Incorrect username or password. You can show the password to check it.",
+    "Nom d’utilisateur ou mot de passe incorrect. Vous pouvez afficher le mot de passe pour le vérifier.",
+    "Nombre de usuario o contraseña incorrectos. Puede mostrar la contraseña para comprobarla."
+  ],
+  "هذا الحساب معطل؛ راجع مسؤول النظام": [
+    "This account is disabled; contact the system administrator",
+    "Ce compte est désactivé ; contactez l’administrateur système",
+    "Esta cuenta está desactivada; contacte con el administrador del sistema"
+  ],
+  "اكتب اسمًا تجريبيًا": [
+    "Enter a demo name",
+    "Saisissez un nom pour la démonstration",
+    "Introduzca un nombre para la demostración"
+  ],
+  "مشارك تجريبي": [
+    "Demo participant",
+    "Participant à la démonstration",
+    "Participante de la demostración"
+  ],
+  "كود التجربة غير موجود": [
+    "Demo code not found",
+    "Code de démonstration introuvable",
+    "Código de demostración no encontrado"
+  ],
+  "مساحة المالك تُفتح بحساب يمنحه مسؤول النظام؛ لا يمكن دخولها بكود": [
+    "The owner’s workspace requires an account assigned by the system administrator; it cannot be accessed with a code",
+    "L’espace du propriétaire nécessite un compte attribué par l’administrateur système ; il n’est pas accessible avec un code",
+    "El espacio del propietario requiere una cuenta asignada por el administrador del sistema; no se puede acceder con un código"
+  ],
+  "تعارض مؤقت؛ حاول مجددًا": [
+    "Temporary conflict; try again",
+    "Conflit temporaire ; réessayez",
+    "Conflicto temporal; vuelva a intentarlo"
+  ],
+  "تبديل الشخص والصلاحية للمالك فقط": [
+    "Only the owner can switch the person and role",
+    "Seul le propriétaire peut changer de personne et de rôle",
+    "Solo el propietario puede cambiar de persona y rol"
+  ],
+  "اختر شخصًا نشطًا؛ في المساحة الفارغة اختر المالية أو مسؤول النظام لإضافة الأشخاص": [
+    "Select an active person; in an empty workspace, choose Finance or System Administrator to add people",
+    "Sélectionnez une personne active ; dans un espace vide, choisissez Finance ou Administrateur système pour ajouter des personnes",
+    "Seleccione una persona activa; en un espacio vacío, elija Finanzas o Administrador del sistema para añadir personas"
+  ],
+  "اختر الصلاحية": [
+    "Select a role",
+    "Sélectionnez un rôle",
+    "Seleccione un rol"
+  ],
+  "تبديل صريح إلى": [
+    "Explicit switch to",
+    "Changement explicite vers",
+    "Cambio explícito a"
+  ],
+  "إدارة الحسابات لمسؤول النظام فقط": [
+    "Only the system administrator can manage accounts",
+    "Seul l’administrateur système peut gérer les comptes",
+    "Solo el administrador del sistema puede gestionar cuentas"
+  ],
+  "اختر اسم مستخدم إنجليزي فريدًا من 3 أحرف على الأقل": [
+    "Choose a unique username in English with at least 3 characters",
+    "Choisissez un nom d’utilisateur unique en anglais d’au moins 3 caractères",
+    "Elija un nombre de usuario único en inglés de al menos 3 caracteres"
+  ],
+  "الصلاحية غير صالحة": [
+    "Invalid role",
+    "Rôle invalide",
+    "Rol no válido"
+  ],
+  "الحساب غير موجود": [
+    "Account not found",
+    "Compte introuvable",
+    "Cuenta no encontrada"
+  ],
+  "كلمة المرور 8 أحرف على الأقل": [
+    "Password must contain at least 8 characters",
+    "Le mot de passe doit contenir au moins 8 caractères",
+    "La contraseña debe contener al menos 8 caracteres"
+  ],
+  "كلمة المرور طويلة جدًا": [
+    "Password is too long",
+    "Le mot de passe est trop long",
+    "La contraseña es demasiado larga"
+  ],
+  "حفظ الحساب والصلاحية؛ كلمة المرور لا تظهر في السجل": [
+    "Save account and role; the password does not appear in the log",
+    "Enregistrer le compte et le rôle ; le mot de passe n’apparaît pas dans le journal",
+    "Guardar cuenta y rol; la contraseña no aparece en el registro"
+  ],
+  "تغيرت البيانات أثناء الحفظ؛ أعد المحاولة": [
+    "Data changed while saving; try again",
+    "Les données ont changé pendant l’enregistrement ; réessayez",
+    "Los datos cambiaron mientras se guardaban; vuelva a intentarlo"
+  ],
+  "اسم المستخدم موجود بالفعل؛ اختر اسمًا آخر": [
+    "Username already exists; choose another",
+    "Ce nom d’utilisateur existe déjà ; choisissez-en un autre",
+    "El nombre de usuario ya existe; elija otro"
+  ],
+  "تعذر الحفظ؛ حاول مجددًا": [
+    "Unable to save; try again",
+    "Impossible d’enregistrer ; réessayez",
+    "No se pudo guardar; vuelva a intentarlo"
+  ],
+  "حفظ المرفقات غير متاح حاليًا؛ استخدم إثباتًا كتابيًا أو حاول مجددًا": [
+    "Attachment saving is currently unavailable; use written evidence or try again",
+    "L’enregistrement des pièces jointes est indisponible ; utilisez un justificatif écrit ou réessayez",
+    "No se pueden guardar adjuntos en este momento; use un comprobante escrito o vuelva a intentarlo"
+  ],
+  "المرفق غير متاح لك": [
+    "This attachment is unavailable to you",
+    "Cette pièce jointe ne vous est pas accessible",
+    "Este adjunto no está disponible para usted"
+  ],
+  "الملف غير موجود": [
+    "File not found",
+    "Fichier introuvable",
+    "Archivo no encontrado"
+  ],
+  "اختر صورة أو ملفًا": [
+    "Select an image or file",
+    "Sélectionnez une image ou un fichier",
+    "Seleccione una imagen o un archivo"
+  ],
+  "حد الملف 10 ميجابايت": [
+    "File size limit: 10 MB",
+    "Taille maximale par fichier : 10 Mo",
+    "Tamaño máximo por archivo: 10 MB"
+  ],
+  "المصروف غير متاح لك": [
+    "This expense is unavailable to you",
+    "Cette dépense ne vous est pas accessible",
+    "Este gasto no está disponible para usted"
+  ],
+  "أضف المرفق قبل الإرسال أو أثناء التصحيح": [
+    "Add the attachment before submitting or while correcting",
+    "Ajoutez la pièce jointe avant l’envoi ou pendant la correction",
+    "Añada el adjunto antes de enviar o durante la corrección"
+  ],
+  "حد المصروف 5 مرفقات": [
+    "Maximum 5 attachments per expense",
+    "Maximum de 5 pièces jointes par dépense",
+    "Máximo de 5 adjuntos por gasto"
+  ],
+  "يدعم الإثبات JPG وPNG وWebP وPDF وTXT وDOCX وXLSX": [
+    "Evidence supports JPG, PNG, WebP, PDF, TXT, DOCX, and XLSX",
+    "Formats de justificatifs acceptés : JPG, PNG, WebP, PDF, TXT, DOCX et XLSX",
+    "Formatos de comprobantes admitidos: JPG, PNG, WebP, PDF, TXT, DOCX y XLSX"
+  ],
+  "نوع الملف لا يطابق محتواه": [
+    "File type does not match its content",
+    "Le type de fichier ne correspond pas à son contenu",
+    "El tipo de archivo no coincide con su contenido"
+  ],
+  "تغيرت حالة المصروف؛ حدّث الصفحة": [
+    "Expense status changed; refresh the page",
+    "Le statut de la dépense a changé ; actualisez la page",
+    "El estado del gasto ha cambiado; actualice la página"
+  ],
+  "الحفظ غير متاح حاليًا؛ حاول مرة أخرى": [
+    "Saving is currently unavailable; try again",
+    "L’enregistrement est actuellement indisponible ; réessayez",
+    "No se puede guardar en este momento; vuelva a intentarlo"
+  ],
+  "ادخل باسم المستخدم وكلمة المرور": [
+    "Sign in with your username and password",
+    "Connectez-vous avec votre nom d’utilisateur et votre mot de passe",
+    "Inicie sesión con su nombre de usuario y contraseña"
+  ],
+  "انتهت الجلسة؛ ادخل مرة أخرى": [
+    "Session expired; sign in again",
+    "Session expirée ; reconnectez-vous",
+    "La sesión ha caducado; vuelva a iniciar sesión"
+  ],
+  "المساحة غير موجودة": [
+    "Workspace not found",
+    "Espace de travail introuvable",
+    "Espacio de trabajo no encontrado"
+  ],
+  "تم تغيير صلاحيات الحساب أو تعطيله؛ ادخل مجددًا": [
+    "Account permissions changed or the account was disabled; sign in again",
+    "Les autorisations du compte ont changé ou le compte a été désactivé ; reconnectez-vous",
+    "Los permisos de la cuenta cambiaron o la cuenta se desactivó; vuelva a iniciar sesión"
+  ],
+  "هذه مساحة المالك؛ ادخل بحساب منحك المالك صلاحياته": [
+    "This is the owner’s workspace; sign in with an account authorized by the owner",
+    "Ceci est l’espace du propriétaire ; connectez-vous avec un compte autorisé par le propriétaire",
+    "Este es el espacio del propietario; acceda con una cuenta autorizada por el propietario"
+  ],
+  "تعارض مؤقت في سجل النشاط؛ حاول مجددًا": [
+    "Temporary conflict in the activity log; try again",
+    "Conflit temporaire dans le journal d’activité ; réessayez",
+    "Conflicto temporal en el registro de actividad; vuelva a intentarlo"
+  ],
+  "العربية": [
+    "Arabic",
+    "Arabe",
+    "Árabe"
+  ],
+  "اختيار اللغة": [
+    "Select language",
+    "Choisir la langue",
+    "Seleccionar idioma"
+  ],
+  "اللغات": [
+    "Languages",
+    "Langues",
+    "Idiomas"
+  ],
+  "حفظ مهمة / مشروع": [
+    "Save task / project",
+    "Enregistrer la tâche / le projet",
+    "Guardar tarea / proyecto"
+  ],
+  "أرشفة مهمة": [
+    "Archive task",
+    "Archiver la tâche",
+    "Archivar tarea"
+  ],
+  "تغيير قواعد المراجعة": [
+    "Change review rules",
+    "Modifier les règles de vérification",
+    "Cambiar reglas de revisión"
+  ],
+  "تقديم تسوية جزئية": [
+    "Submit partial settlement",
+    "Soumettre un règlement partiel",
+    "Enviar liquidación parcial"
+  ],
+  "اعتماد تسوية جزئية": [
+    "Approve partial settlement",
+    "Valider le règlement partiel",
+    "Aprobar liquidación parcial"
+  ],
+  "إعادة تسوية جزئية": [
+    "Send partial settlement back",
+    "Renvoyer le règlement partiel",
+    "Devolver liquidación parcial"
+  ],
+  "إلغاء تسوية جزئية بسبب": [
+    "Reason for canceling the partial settlement",
+    "Motif d’annulation du règlement partiel",
+    "Motivo de cancelación de la liquidación parcial"
+  ],
+  "حفظ عرض تقرير": [
+    "Save report view",
+    "Enregistrer la vue du rapport",
+    "Guardar vista del informe"
+  ],
+  "حذف عرض تقرير": [
+    "Delete report view",
+    "Supprimer la vue du rapport",
+    "Eliminar vista del informe"
+  ],
+  "تصحيح التسوية الجزئية": [
+    "Correct partial settlement",
+    "Corriger le règlement partiel",
+    "Corregir liquidación parcial"
+  ],
+  "إجمالي المصروف في نطاقك": [
+    "Total spending in your scope",
+    "Total des dépenses dans votre périmètre",
+    "Gasto total dentro de su ámbito"
+  ],
+  "الإدارة والإعدادات": [
+    "Administration and settings",
+    "Administration et paramètres",
+    "Administración y configuración"
+  ],
+  "المصروفات والعهد الظاهرة تقع ضمن صلاحيتك؛ الميزانية الكاملة للمالية.": [
+    "The displayed expenses and advances are within your permissions; the full budget is reserved for Finance.",
+    "Les dépenses et les avances affichées relèvent de vos autorisations ; le budget complet est réservé au service financier.",
+    "Los gastos y anticipos mostrados están dentro de sus permisos; el presupuesto completo está reservado a Finanzas."
+  ],
+  "بحث المهام والمشاريع": [
+    "Search tasks and projects",
+    "Rechercher des tâches et des projets",
+    "Buscar tareas y proyectos"
+  ],
+  "غير معروض لهذه الصلاحية": [
+    "Not visible with this permission",
+    "Non visible avec cette autorisation",
+    "No visible con este permiso"
+  ],
+  "إجمالي المسؤولية بنهاية الفترة": [
+    "Total funds under your responsibility at period end",
+    "Total des fonds sous votre responsabilité en fin de période",
+    "Total de fondos bajo su responsabilidad al cierre del período"
+  ],
+  "وارد / موزع خلال الفترة": [
+    "Received / allocated during the period",
+    "Reçu / réparti pendant la période",
+    "Recibido / distribuido durante el período"
+  ],
+  "مصروف / مردود خلال الفترة": [
+    "Spent / returned during the period",
+    "Dépensé / restitué pendant la période",
+    "Gastado / devuelto durante el período"
+  ],
+  "تعذر تخصيص مرجع جديد": [
+    "Could not assign a new reference",
+    "Impossible d’attribuer une nouvelle référence",
+    "No se pudo asignar una nueva referencia"
+  ],
+  "اختر مديرًا آخر لهذا الشخص": [
+    "Choose another manager for this person",
+    "Choisissez un autre responsable pour cette personne",
+    "Elija otro responsable para esta persona"
+  ],
+  "العهدة مغلقة؛ لا تعديل لتسويتها": [
+    "Advance closed; its settlement cannot be edited",
+    "Avance clôturée ; son règlement ne peut pas être modifié",
+    "Anticipo cerrado; su liquidación no se puede editar"
+  ],
+  "تاريخ البداية يجب أن يسبق تاريخ النهاية": [
+    "The start date must precede the end date",
+    "La date de début doit précéder la date de fin",
+    "La fecha de inicio debe ser anterior a la fecha de fin"
+  ],
+  "اكتب RESET للتأكيد": [
+    "Type RESET to confirm",
+    "Saisissez RESET pour confirmer",
+    "Escriba RESET para confirmar"
+  ],
+  "القائمة الرئيسية": [
+    "Main navigation",
+    "Navigation principale",
+    "Navegación principal"
+  ],
+  "المتاح لك": [
+    "Available to you",
+    "Disponible pour vous",
+    "Disponible para ti"
+  ],
+  "أول خطوة": [
+    "First step",
+    "Première étape",
+    "Primer paso"
+  ],
+  "تجاوز الميزانية": [
+    "Budget exceeded",
+    "Budget dépassé",
+    "Presupuesto superado"
+  ],
+  "أجهزة ومعدات": [
+    "Devices and equipment",
+    "Appareils et équipements",
+    "Dispositivos y equipos"
+  ],
+  "أساس التصدير": [
+    "Export basis",
+    "Base de l’export",
+    "Base de la exportación"
+  ],
+  "أصل ثابت": [
+    "Fixed asset",
+    "Immobilisation",
+    "Activo fijo"
+  ],
+  "أصول ثابتة أخرى": [
+    "Other fixed assets",
+    "Autres immobilisations",
+    "Otros activos fijos"
+  ],
+  "إجمالي الدائن": [
+    "Total credits",
+    "Total des crédits",
+    "Total del haber"
+  ],
+  "إجمالي المدين": [
+    "Total debits",
+    "Total des débits",
+    "Total del debe"
+  ],
+  "إعادة تصنيف محاسبي": [
+    "Accounting reclassification",
+    "Reclassement comptable",
+    "Reclasificación contable"
+  ],
+  "اعتماد مصروف أو شراء": [
+    "Expense or purchase approval",
+    "Approbation d’une dépense ou d’un achat",
+    "Aprobación de gasto o compra"
+  ],
+  "الأثر التشغيلي": [
+    "Operational impact",
+    "Impact opérationnel",
+    "Efecto operativo"
+  ],
+  "البنك": [
+    "Bank",
+    "Banque",
+    "Banco"
+  ],
+  "البيان": [
+    "Description",
+    "Libellé",
+    "Descripción"
+  ],
+  "التاريخ المحاسبي": [
+    "Accounting date",
+    "Date comptable",
+    "Fecha contable"
+  ],
+  "التصنيف": [
+    "Classification",
+    "Classification",
+    "Clasificación"
+  ],
+  "الحالة الحالية": [
+    "Current status",
+    "Statut actuel",
+    "Estado actual"
+  ],
+  "الحساب": [
+    "Account",
+    "Compte",
+    "Cuenta"
+  ],
+  "الحساب المحاسبي": [
+    "Accounting account",
+    "Compte comptable",
+    "Cuenta contable"
+  ],
+  "الحساب المحاسبي غير صالح": [
+    "Invalid accounting account",
+    "Compte comptable invalide",
+    "Cuenta contable no válida"
+  ],
+  "الحساب المقترح": [
+    "Suggested account",
+    "Compte proposé",
+    "Cuenta propuesta"
+  ],
+  "الحسابات مقترحة داخلية؛ لا تحددها IFRS. تصنيف الشراء يحدده المالية، ولا ينشئ سجل أصول أو حركة مخزون.": [
+    "These are suggested internal accounts; IFRS does not prescribe them. Finance classifies purchases; this does not create an asset register or inventory movement.",
+    "Ces comptes internes sont proposés ; les IFRS ne les imposent pas. Les finances classent les achats ; cela ne crée ni registre des immobilisations ni mouvement de stock.",
+    "Estas cuentas internas son propuestas; las NIIF no las establecen. Finanzas clasifica las compras; esto no crea un registro de activos ni un movimiento de inventario."
+  ],
+  "الخزينة": [
+    "Cash on hand",
+    "Caisse",
+    "Caja"
+  ],
+  "الدائن": [
+    "Credit",
+    "Crédit",
+    "Haber"
+  ],
+  "العملة": [
+    "Currency",
+    "Devise",
+    "Moneda"
+  ],
+  "العمليات الأصلية": [
+    "Source transactions",
+    "Opérations sources",
+    "Operaciones de origen"
+  ],
+  "الفلاتر": [
+    "Filters",
+    "Filtres",
+    "Filtros"
+  ],
+  "القيد المحاسبي بلا أطراف": [
+    "The journal entry has no lines",
+    "L’écriture comptable ne contient aucune ligne",
+    "El asiento contable no tiene líneas"
+  ],
+  "القيد المحاسبي غير متوازن": [
+    "The journal entry is not balanced",
+    "L’écriture comptable n’est pas équilibrée",
+    "El asiento contable no está equilibrado"
+  ],
+  "القيود المحاسبية": [
+    "Journal entries",
+    "Écritures comptables",
+    "Asientos contables"
+  ],
+  "القيود حسب تاريخ العملية؛ العكس وإعادة التصنيف حسب تاريخ الإجراء. المقارنة بين الأرصدة الحالية لا تتبع فترة التقرير.": [
+    "Entries use the transaction date; reversals and reclassifications use the action date. The current balance comparison is independent of the report period.",
+    "Les écritures utilisent la date de l’opération ; les contrepassations et reclassements utilisent la date de l’action. La comparaison des soldes actuels est indépendante de la période du rapport.",
+    "Los asientos usan la fecha de la operación; las reversiones y reclasificaciones usan la fecha de la acción. La comparación de saldos actuales es independiente del período del informe."
+  ],
+  "المبالغ ذات أكثر من 15 رقمًا معنويًا محفوظة كنص عشري دقيق.": [
+    "Amounts with more than 15 significant digits are saved as exact decimal text.",
+    "Les montants de plus de 15 chiffres significatifs sont enregistrés sous forme de texte décimal exact.",
+    "Los importes con más de 15 dígitos significativos se guardan como texto decimal exacto."
+  ],
+  "المحفظة الإلكترونية": [
+    "Electronic wallet",
+    "Portefeuille électronique",
+    "Monedero electrónico"
+  ],
+  "المخزون": [
+    "Inventory",
+    "Stocks",
+    "Inventario"
+  ],
+  "المدين": [
+    "Debit",
+    "Débit",
+    "Debe"
+  ],
+  "النطاق": [
+    "Scope",
+    "Périmètre",
+    "Ámbito"
+  ],
+  "بانتظار الاعتماد المالي؛ بلا قيد": [
+    "Awaiting Finance approval; no journal entry",
+    "En attente d’approbation des finances ; aucune écriture",
+    "Pendiente de aprobación de Finanzas; sin asiento"
+  ],
+  "بانتظار تأكيد التسليم والاستلام": [
+    "Awaiting handover and receipt confirmation",
+    "En attente de confirmation de remise et de réception",
+    "Pendiente de confirmación de entrega y recepción"
+  ],
+  "تصدير القيود يتبع الفترة والشخص والعهدة والمشروع. فلاتر حالة التشغيل والبند والنوع والبحث تخص التقرير التشغيلي.": [
+    "Journal exports follow the period, person, advance, and project filters. Operational status, category, type, and search filters apply to the operational report.",
+    "L’export des écritures suit les filtres de période, de personne, d’avance et de projet. Les filtres de statut opérationnel, de catégorie, de type et de recherche concernent le rapport opérationnel.",
+    "La exportación de asientos sigue los filtros de período, persona, anticipo y proyecto. Los filtros de estado operativo, categoría, tipo y búsqueda corresponden al informe operativo."
+  ],
+  "تصدير قيود محاسبية تجريبي": [
+    "Demo journal entry export",
+    "Export d’écritures comptables de démonstration",
+    "Exportación de asientos contables de demostración"
+  ],
+  "حركات العهد المؤكدة والمشتريات المعتمدة فقط؛ الضرائب والإهلاك وتقييم المخزون تحتاج معالجة مستقلة.": [
+    "Confirmed advance transactions and approved purchases only; taxes, depreciation, and inventory valuation require separate treatment.",
+    "Uniquement les mouvements d’avances confirmés et les achats approuvés ; les impôts, amortissements et évaluations des stocks nécessitent un traitement distinct.",
+    "Solo movimientos de anticipos confirmados y compras aprobadas; los impuestos, la depreciación y la valoración del inventario requieren un tratamiento separado."
+  ],
+  "حركة الحسابات": [
+    "Account movements",
+    "Mouvements des comptes",
+    "Movimientos de cuentas"
+  ],
+  "دقة Excel": [
+    "Excel precision",
+    "Précision d’Excel",
+    "Precisión de Excel"
+  ],
+  "دليل الحسابات المقترح": [
+    "Suggested chart of accounts",
+    "Plan comptable proposé",
+    "Plan de cuentas propuesto"
+  ],
+  "رصيد العهد التشغيلي الحالي في النطاق": [
+    "Current operational advance balance within scope",
+    "Solde opérationnel actuel des avances dans le périmètre",
+    "Saldo operativo actual de anticipos en el ámbito"
+  ],
+  "رصيد العهد المحاسبي الحالي في النطاق": [
+    "Current accounting advance balance within scope",
+    "Solde comptable actuel des avances dans le périmètre",
+    "Saldo contable actual de anticipos en el ámbito"
+  ],
+  "رقم القيد": [
+    "Journal entry number",
+    "Numéro d’écriture",
+    "Número de asiento"
+  ],
+  "سبب عدم إنشاء قيد": [
+    "Reason no entry was created",
+    "Motif de l’absence d’écriture",
+    "Motivo por el que no se creó un asiento"
+  ],
+  "سجل سابق؛ وقت التأكيد غير متاح": [
+    "Legacy record; confirmation time unavailable",
+    "Enregistrement antérieur ; heure de confirmation indisponible",
+    "Registro anterior; hora de confirmación no disponible"
+  ],
+  "طبيعة الحساب": [
+    "Account type",
+    "Nature du compte",
+    "Tipo de cuenta"
+  ],
+  "طرف القيد المحاسبي غير صالح": [
+    "Invalid journal entry line",
+    "Ligne d’écriture comptable invalide",
+    "Línea de asiento contable no válida"
+  ],
+  "عدد العمليات للمراجعة": [
+    "Transactions to review",
+    "Nombre d’opérations à vérifier",
+    "Número de operaciones por revisar"
+  ],
+  "عدد القيود": [
+    "Number of journal entries",
+    "Nombre d’écritures",
+    "Número de asientos"
+  ],
+  "عدد المرفقات": [
+    "Number of attachments",
+    "Nombre de pièces jointes",
+    "Número de adjuntos"
+  ],
+  "عكس قيد محاسبي": [
+    "Journal entry reversal",
+    "Contrepassation d’écriture comptable",
+    "Reversión de asiento contable"
+  ],
+  "عمليات للمراجعة": [
+    "Transactions for review",
+    "Opérations à vérifier",
+    "Operaciones por revisar"
+  ],
+  "عهد": [
+    "Advances",
+    "Avances",
+    "Anticipos"
+  ],
+  "عهد الموظفين ومسؤولي العهد": [
+    "Employee and custodian advances",
+    "Avances aux employés et responsables des fonds",
+    "Anticipos a empleados y responsables de fondos"
+  ],
+  "فرق التوازن": [
+    "Balance difference",
+    "Écart d’équilibre",
+    "Diferencia de equilibrio"
+  ],
+  "فرق الرصيد؛ اعتماد أو تصنيف منتظر": [
+    "Balance difference; approval or classification pending",
+    "Écart de solde ; approbation ou classification en attente",
+    "Diferencia de saldo; aprobación o clasificación pendiente"
+  ],
+  "كود الحساب": [
+    "Account code",
+    "Code du compte",
+    "Código de cuenta"
+  ],
+  "مبلغ القيد المحاسبي غير صالح": [
+    "Invalid journal entry amount",
+    "Montant d’écriture comptable invalide",
+    "Importe de asiento contable no válido"
+  ],
+  "مخزون": [
+    "Inventory",
+    "Stocks",
+    "Inventario"
+  ],
+  "مرتجع": [
+    "Cash return",
+    "Restitution de fonds",
+    "Devolución de fondos"
+  ],
+  "مرجع العملية": [
+    "Transaction reference",
+    "Référence de l’opération",
+    "Referencia de la operación"
+  ],
+  "مسودة؛ بلا قيد": [
+    "Draft; no journal entry",
+    "Brouillon ; aucune écriture",
+    "Borrador; sin asiento"
+  ],
+  "مشتريات مستهلكة كمصروف": [
+    "Consumable purchases expensed",
+    "Achats consommables comptabilisés en charges",
+    "Compras consumibles contabilizadas como gasto"
+  ],
+  "مصدر السجل": [
+    "Record source",
+    "Source de l’enregistrement",
+    "Origen del registro"
+  ],
+  "مصروف أكل وشرب": [
+    "Food and beverage expense",
+    "Frais de repas et boissons",
+    "Gastos de comida y bebida"
+  ],
+  "مصروف أو شراء": [
+    "Expense or purchase",
+    "Dépense ou achat",
+    "Gasto o compra"
+  ],
+  "مصروف اتصالات": [
+    "Communication expense",
+    "Frais de communication",
+    "Gastos de comunicaciones"
+  ],
+  "مصروف انتقالات": [
+    "Transportation expense",
+    "Frais de transport",
+    "Gastos de transporte"
+  ],
+  "مصروف تحميل وتنزيل": [
+    "Loading and unloading expense",
+    "Frais de chargement et déchargement",
+    "Gastos de carga y descarga"
+  ],
+  "مصروف وقود": [
+    "Fuel expense",
+    "Frais de carburant",
+    "Gastos de combustible"
+  ],
+  "مصروفات أخرى": [
+    "Other expenses",
+    "Autres charges",
+    "Otros gastos"
+  ],
+  "مطلوب تصحيح؛ بلا قيد معتمد": [
+    "Correction required; no approved entry",
+    "Correction requise ; aucune écriture approuvée",
+    "Corrección necesaria; sin asiento aprobado"
+  ],
+  "معتمد؛ يحتاج تحديد الحساب المحاسبي": [
+    "Approved; accounting account required",
+    "Approuvé ; compte comptable à définir",
+    "Aprobado; se debe definir la cuenta contable"
+  ],
+  "ملخص القيود": [
+    "Journal summary",
+    "Résumé des écritures",
+    "Resumen de asientos"
+  ],
+  "موثق بسجل الإجراء": [
+    "Documented in the action log",
+    "Documenté dans le journal des actions",
+    "Documentado en el registro de acciones"
+  ],
+  "نقد وبنوك": [
+    "Cash and banks",
+    "Trésorerie et banques",
+    "Caja y bancos"
+  ],
+  "نوع القيد": [
+    "Entry type",
+    "Type d’écriture",
+    "Tipo de asiento"
+  ],
+  "وقت التأكيد أو الاعتماد": [
+    "Confirmation or approval time",
+    "Heure de confirmation ou d’approbation",
+    "Hora de confirmación o aprobación"
+  ],
+  "يحتاج تصنيفًا محاسبيًا": [
+    "Accounting classification required",
+    "Classification comptable requise",
+    "Se requiere clasificación contable"
+  ],
+  "تنزيل القيود المحاسبية — Excel": [
+    "Download journal entries — Excel",
+    "Télécharger les écritures comptables — Excel",
+    "Descargar asientos contables — Excel"
+  ],
+  "تصنيف محاسبي": [
+    "Accounting classification",
+    "Classification comptable",
+    "Clasificación contable"
+  ],
+  "التصنيف المحاسبي للشراء": [
+    "Purchase accounting classification",
+    "Classification comptable de l’achat",
+    "Clasificación contable de la compra"
+  ],
+  "الحساب المدين": [
+    "Debit account",
+    "Compte débité",
+    "Cuenta deudora"
+  ],
+  "طبيعة الشراء": [
+    "Purchase type",
+    "Nature de l’achat",
+    "Tipo de compra"
+  ],
+  "حدد حساب المصروف أو الأصل أو المخزون قبل الاعتماد المالي": [
+    "Select the expense, asset, or inventory account before Finance approval",
+    "Choisissez le compte de charge, d’immobilisation ou de stock avant l’approbation des finances",
+    "Seleccione la cuenta de gasto, activo o inventario antes de la aprobación de Finanzas"
+  ],
+  "المصروف غير قابل للتصنيف المحاسبي": [
+    "This expense cannot be classified for accounting",
+    "Cette dépense ne peut pas être classée comptablement",
+    "Este gasto no admite clasificación contable"
+  ],
+  "التصنيف بعد الاعتماد ينشئ قيد إعادة تصنيف بسبب ولا يغيّر رصيد العهدة": [
+    "Classification after approval creates a reclassification entry with a reason and does not change the advance balance",
+    "La classification après approbation crée une écriture de reclassement motivée sans modifier le solde de l’avance",
+    "La clasificación después de la aprobación crea un asiento de reclasificación con motivo y no cambia el saldo del anticipo"
+  ],
+  "سبب إعادة التصنيف": [
+    "Reclassification reason",
+    "Motif du reclassement",
+    "Motivo de reclasificación"
+  ],
+  "أصل / مخزون / مصروف": [
+    "Asset / inventory / expense",
+    "Immobilisation / stock / charge",
+    "Activo / inventario / gasto"
+  ],
+  "القيود للحركات المؤكدة والمعتمدة فقط؛ المنتظر في شيت منفصل": [
+    "Entries include confirmed and approved transactions only; pending transactions are in a separate sheet",
+    "Les écritures comprennent uniquement les opérations confirmées et approuvées ; les opérations en attente figurent dans une feuille distincte",
+    "Los asientos incluyen solo operaciones confirmadas y aprobadas; las pendientes figuran en una hoja separada"
+  ],
+  "التصدير يتبع الفترة والشخص والعهدة والمشروع، ويحتفظ بطرفي كل قيد": [
+    "The export follows the period, person, advance, and project filters and retains both sides of every entry",
+    "L’export suit les filtres de période, de personne, d’avance et de projet et conserve les deux côtés de chaque écriture",
+    "La exportación sigue los filtros de período, persona, anticipo y proyecto y conserva ambos lados de cada asiento"
+  ],
+  "لا توجد قيود مؤكدة في النطاق المختار": [
+    "No confirmed entries in the selected scope",
+    "Aucune écriture confirmée dans le périmètre sélectionné",
+    "No hay asientos confirmados en el ámbito seleccionado"
+  ],
+  "عمليات تحتاج تصنيفًا محاسبيًا": [
+    "Transactions requiring accounting classification",
+    "Opérations nécessitant une classification comptable",
+    "Operaciones que requieren clasificación contable"
+  ],
+  "تنزيل ملف القيود": [
+    "Download journal file",
+    "Télécharger le fichier des écritures",
+    "Descargar archivo de asientos"
+  ],
+  "شراء معكوس سابقًا؛ يحتاج تصنيف الأصل والعكس": [
+    "Previously reversed purchase; classify both the original and its reversal",
+    "Achat précédemment contrepassé ; classer l’écriture initiale et sa contrepassation",
+    "Compra previamente revertida; clasificar el asiento original y su reversión"
+  ],
+  "آخر مبلغ صرف مؤكد": [
+    "Last confirmed spending amount",
+    "Dernier montant de dépense confirmé",
+    "Último importe de gasto confirmado"
+  ],
+  "الأثر المحاسبي": [
+    "Accounting impact",
+    "Impact comptable",
+    "Efecto contable"
+  ],
+  "التصحيح لم يؤكد؛ آخر صرف مؤكد محفوظ": [
+    "Correction not confirmed; the last confirmed spending is retained",
+    "Correction non confirmée ; la dernière dépense confirmée est conservée",
+    "Corrección no confirmada; se conserva el último gasto confirmado"
+  ],
+  "التوضيح": [
+    "Explanation",
+    "Explication",
+    "Explicación"
+  ],
+  "الحركات المؤكدة في جميع مراحلها؛ الصرف قيد المراجعة في حساب مؤقت، والاعتماد ينقله للتصنيف النهائي. غير المؤكد في تنزيل مستقل.": [
+    "Confirmed transactions at every stage; spending under review is held in a clearing account, and approval transfers it to its final classification. Unconfirmed stages are available as a separate download.",
+    "Opérations confirmées à chaque étape ; les dépenses en cours de vérification sont inscrites dans un compte transitoire, puis transférées à leur classification définitive lors de l’approbation. Les étapes non confirmées font l’objet d’un téléchargement distinct.",
+    "Operaciones confirmadas en cada etapa; los gastos en revisión se registran en una cuenta transitoria y la aprobación los transfiere a su clasificación definitiva. Las etapas no confirmadas se descargan por separado."
+  ],
+  "الصرف الأول حسب تاريخ العملية؛ التصحيح والاعتماد والعكس حسب تاريخ تأكيد المرحلة. المقارنة بين الأرصدة الحالية لا تتبع فترة التقرير.": [
+    "Initial spending uses the transaction date; corrections, approval, and reversals use the stage confirmation date. The current balance comparison is independent of the report period.",
+    "La dépense initiale utilise la date de l’opération ; les corrections, l’approbation et les contrepassations utilisent la date de confirmation de l’étape. La comparaison des soldes actuels est indépendante de la période du rapport.",
+    "El gasto inicial usa la fecha de la operación; las correcciones, la aprobación y las reversiones usan la fecha de confirmación de la etapa. La comparación de saldos actuales es independiente del período del informe."
+  ],
+  "الصرف مؤكد؛ المراجعة أو الاعتماد لم يؤكد بعد": [
+    "Spending confirmed; review or approval not yet confirmed",
+    "Dépense confirmée ; vérification ou approbation pas encore confirmée",
+    "Gasto confirmado; revisión o aprobación aún no confirmada"
+  ],
+  "الفاعل": [
+    "Actor",
+    "Auteur",
+    "Autor"
+  ],
+  "القيد المرتبط": [
+    "Linked journal entry",
+    "Écriture comptable liée",
+    "Asiento contable vinculado"
+  ],
+  "المرحلة المؤكدة": [
+    "Confirmed stage",
+    "Étape confirmée",
+    "Etapa confirmada"
+  ],
+  "المرحلة المنتظرة": [
+    "Pending stage",
+    "Étape en attente",
+    "Etapa pendiente"
+  ],
+  "تأكيد استلام المرتجع": [
+    "Confirm receipt of returned funds",
+    "Confirmer la réception des fonds restitués",
+    "Confirmar la recepción de los fondos devueltos"
+  ],
+  "تأكيد الإعادة للتصحيح": [
+    "Confirm return for correction",
+    "Confirmer le renvoi pour correction",
+    "Confirmar la devolución para corrección"
+  ],
+  "تأكيد التصنيف المحاسبي": [
+    "Confirm accounting classification",
+    "Confirmer la classification comptable",
+    "Confirmar la clasificación contable"
+  ],
+  "تأكيد الصرف وإرساله": [
+    "Confirm and submit spending",
+    "Confirmer et soumettre la dépense",
+    "Confirmar y enviar el gasto"
+  ],
+  "تأكيد المراجعة أو الاعتماد": [
+    "Confirm review or approval",
+    "Confirmer la vérification ou l’approbation",
+    "Confirmar la revisión o aprobación"
+  ],
+  "تأكيد فرق تصحيح الصرف": [
+    "Confirm spending correction difference",
+    "Confirmer l’écart de correction de la dépense",
+    "Confirmar la diferencia de corrección del gasto"
+  ],
+  "تأكيد مرحلة؛ بلا أثر مالي جديد": [
+    "Stage confirmation; no new financial impact",
+    "Confirmation d’étape ; aucun nouvel impact financier",
+    "Confirmación de etapa; sin nuevo efecto financiero"
+  ],
+  "تاريخ المرحلة": [
+    "Stage date",
+    "Date de l’étape",
+    "Fecha de la etapa"
+  ],
+  "تسجيل التوزيع": [
+    "Record allocation",
+    "Enregistrer la répartition",
+    "Registrar la asignación"
+  ],
+  "تسجيل صرف العهدة": [
+    "Record advance issuance",
+    "Enregistrer le versement de l’avance",
+    "Registrar la entrega del anticipo"
+  ],
+  "تقديم التسوية": [
+    "Submit settlement",
+    "Soumettre la régularisation",
+    "Enviar la liquidación"
+  ],
+  "سجل سابق؛ تفاصيل مرحلة الصرف غير متاحة": [
+    "Legacy record; spending stage details unavailable",
+    "Enregistrement antérieur ; détails de l’étape de dépense indisponibles",
+    "Registro anterior; detalles de la etapa de gasto no disponibles"
+  ],
+  "سحب طلب التسوية": [
+    "Withdraw settlement request",
+    "Retirer la demande de régularisation",
+    "Retirar la solicitud de liquidación"
+  ],
+  "صرف مؤكد تحت المراجعة": [
+    "Confirmed spending under review",
+    "Dépense confirmée en cours de vérification",
+    "Gasto confirmado en revisión"
+  ],
+  "عدد المراحل غير المؤكدة": [
+    "Number of unconfirmed stages",
+    "Nombre d’étapes non confirmées",
+    "Número de etapas no confirmadas"
+  ],
+  "عمليات ومراحل غير مؤكدة": [
+    "Unconfirmed transactions and stages",
+    "Opérations et étapes non confirmées",
+    "Operaciones y etapas no confirmadas"
+  ],
+  "فرق الرصيد للمراجعة": [
+    "Balance difference for review",
+    "Écart de solde à vérifier",
+    "Diferencia de saldo por revisar"
+  ],
+  "مبلغ الطلب أو المسودة": [
+    "Request or draft amount",
+    "Montant de la demande ou du brouillon",
+    "Importe de la solicitud o borrador"
+  ],
+  "مراحل العمليات المؤكدة": [
+    "Confirmed transaction stages",
+    "Étapes confirmées des opérations",
+    "Etapas confirmadas de las operaciones"
+  ],
+  "مرحلة لها قيد مالي": [
+    "Stage with a financial journal entry",
+    "Étape associée à une écriture financière",
+    "Etapa con un asiento financiero"
+  ],
+  "مسودة غير مؤكدة؛ بلا قيد": [
+    "Unconfirmed draft; no journal entry",
+    "Brouillon non confirmé ; aucune écriture comptable",
+    "Borrador no confirmado; sin asiento contable"
+  ],
+  "مصروفات ومشتريات مؤكدة تحت المراجعة": [
+    "Confirmed expenses and purchases under review",
+    "Dépenses et achats confirmés en cours de vérification",
+    "Gastos y compras confirmados en revisión"
+  ],
+  "ملخص غير المؤكد": [
+    "Unconfirmed stages summary",
+    "Résumé des étapes non confirmées",
+    "Resumen de etapas no confirmadas"
+  ],
+  "هذا التقرير للمراحل المنتظرة فقط. قد تكون للعملية مرحلة صرف مؤكدة موجودة بالفعل في ملف القيود؛ لا تعاد إضافة المبلغ.": [
+    "This report covers pending stages only. A confirmed spending stage may already exist in the journal export; do not add the amount again.",
+    "Ce rapport concerne uniquement les étapes en attente. Une étape de dépense confirmée peut déjà figurer dans l’export des écritures ; n’ajoutez pas le montant une seconde fois.",
+    "Este informe incluye solo etapas pendientes. Una etapa de gasto confirmado puede estar ya en la exportación de asientos; no añada el importe otra vez."
+  ],
+  "وقت الإجراء": [
+    "Action time",
+    "Heure de l’action",
+    "Hora de la acción"
+  ],
+  "تنزيل تقرير غير المؤكد — Excel": [
+    "Download unconfirmed stages report — Excel",
+    "Télécharger le rapport des étapes non confirmées — Excel",
+    "Descargar informe de etapas no confirmadas — Excel"
+  ],
+  "القيود للحركات المؤكدة في كل مرحلة؛ غير المؤكد في تقرير مستقل": [
+    "Journal entries cover confirmed transactions at every stage; unconfirmed stages are in a separate report",
+    "Les écritures couvrent les opérations confirmées à chaque étape ; les étapes non confirmées figurent dans un rapport distinct",
+    "Los asientos incluyen operaciones confirmadas en cada etapa; las etapas no confirmadas figuran en un informe separado"
+  ],
+  "تحت المراجعة": [
+    "Under review",
+    "En cours de vérification",
+    "En revisión"
+  ],
+  "فتح التفاصيل": [
+    "Open details",
+    "Ouvrir les détails",
+    "Abrir detalles"
+  ],
+  "المبلغ المؤكد": [
+    "Confirmed amount",
+    "Montant confirmé",
+    "Importe confirmado"
+  ],
+  "مبلغ الطلب أو المسودة الحالي": [
+    "Current request or draft amount",
+    "Montant actuel de la demande ou du brouillon",
+    "Importe actual de la solicitud o borrador"
+  ],
+  "الوصف الحالي": [
+    "Current description",
+    "Description actuelle",
+    "Descripción actual"
+  ],
+  "الإثبات الحالي": [
+    "Current evidence",
+    "Justificatif actuel",
+    "Comprobante actual"
+  ],
+  "حساب وسيط تحت المراجعة": [
+    "Clearing account under review",
+    "Compte transitoire en cours de vérification",
+    "Cuenta transitoria en revisión"
+  ],
+  "بانتظار اعتماد وإقفال التسوية؛ بلا أثر مالي جديد": [
+    "Awaiting settlement approval and closure; no new financial impact",
+    "En attente d’approbation et de clôture de la régularisation ; aucun nouvel impact financier",
+    "Pendiente de aprobación y cierre de la liquidación; sin nuevo efecto financiero"
+  ],
+  "تسوية جزئية بانتظار التصحيح؛ بلا أثر مالي جديد": [
+    "Partial settlement awaiting correction; no new financial impact",
+    "Régularisation partielle en attente de correction ; aucun nouvel impact financier",
+    "Liquidación parcial pendiente de corrección; sin nuevo efecto financiero"
+  ],
+  "تسوية جزئية بانتظار الاعتماد؛ بلا أثر مالي جديد": [
+    "Partial settlement awaiting approval; no new financial impact",
+    "Régularisation partielle en attente d’approbation ; aucun nouvel impact financier",
+    "Liquidación parcial pendiente de aprobación; sin nuevo efecto financiero"
+  ],
+  "بانتظار اعتماد التسوية": [
+    "Awaiting settlement approval",
+    "En attente d’approbation de la régularisation",
+    "Pendiente de aprobación de la liquidación"
+  ],
+  "بانتظار اعتماد التسوية الجزئية": [
+    "Awaiting partial settlement approval",
+    "En attente d’approbation de la régularisation partielle",
+    "Pendiente de aprobación de la liquidación parcial"
+  ],
+  "تسوية نهائية": [
+    "Final settlement",
+    "Régularisation finale",
+    "Liquidación final"
+  ],
+  "مرحلة لها قيد مالي خارج فترة التقرير": [
+    "Stage has a journal entry outside the report period",
+    "Cette étape a une écriture hors de la période du rapport",
+    "La etapa tiene un asiento fuera del período del informe"
+  ],
+  "تاريخ الطلب أو المسودة الحالي": [
+    "Current request or draft date",
+    "Date actuelle de la demande ou du brouillon",
+    "Fecha actual de la solicitud o del borrador"
+  ],
+  "تعذر فتح مساحة العمل الآن؛ حاول مرة أخرى.": [
+    "Unable to open the workspace right now. Please try again.",
+    "Impossible d’ouvrir l’espace de travail pour le moment. Réessayez.",
+    "No se puede abrir el espacio de trabajo ahora. Inténtalo de nuevo."
+  ],
+  "تم قبول بيانات الدخول، لكن جلسة المتصفح لم تُحفظ. افتح رابط الموقع مباشرة وحاول مرة أخرى.": [
+    "Your login was accepted, but the browser session was not saved. Open the site link directly and try again.",
+    "Vos identifiants ont été acceptés, mais la session du navigateur n’a pas été enregistrée. Ouvrez directement le lien du site et réessayez.",
+    "Se aceptaron tus credenciales, pero no se guardó la sesión del navegador. Abre directamente el enlace del sitio e inténtalo de nuevo."
+  ]
+}
