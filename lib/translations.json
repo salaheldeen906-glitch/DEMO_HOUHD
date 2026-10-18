@@ -4629,6 +4629,11 @@
     "Date actuelle de la demande ou du brouillon",
     "Fecha actual de la solicitud o del borrador"
   ],
+  "اختر التاريخ": [
+    "Choose a date",
+    "Choisir une date",
+    "Elige una fecha"
+  ],
   "تعذر فتح مساحة العمل الآن؛ حاول مرة أخرى.": [
     "Unable to open the workspace right now. Please try again.",
     "Impossible d’ouvrir l’espace de travail pour le moment. Réessayez.",

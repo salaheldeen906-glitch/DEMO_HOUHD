@@ -8,9 +8,10 @@ Published pilot: https://uhda-cash-pilot.salaheldeen906.chatgpt.site
 
 ## Source snapshot
 
-- Published version: 8 (14 October 2026).
-- Source commit: `dcfda9cfc54128c9bfdbc6ed4f0993be9df0e79e`.
+- Published version: 9 (18 October 2026).
+- Source commit: `a5a4648f334fbe99f42f88aa862ce36fd4a925a2`.
 - This copy includes the implemented workflow, accounting exports and login-session fixes.
+- Version 9 fixes small-screen financial summaries, clarifies date fields as day/month/year, and closes global search with Escape while restoring focus.
 - The security improvements proposed on 18 October remain proposals and are not represented as implemented features.
 
 ## Features / الوظائف
